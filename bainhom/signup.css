@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f4f4f4; /* Thêm màu nền để trang trông sáng sủa hơn */
+}
+  
+.container {
+    display: flex;
+    width: 80%;
+    max-width: 1200px; /* Đặt kích thước tối đa cho container */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Thêm bóng đổ cho hộp */
+}
+  
+.left {
+    background-color: #ff4500;
+    color: #fff;
+    padding: 50px;
+    text-align: center;
+    flex: 1; /* Cho phép phần bên trái chiếm toàn bộ không gian còn lại */
+}
+  
+.right {
+    background-color: #fff;
+    padding: 50px;
+    text-align: center;
+    flex: 1; /* Cho phép phần bên phải chiếm toàn bộ không gian còn lại */
+}
+  
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+  
+input {
+    width: 250px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px; /* Bo góc input */
+}
+  
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px; /* Bo góc cho button */
+    transition: background-color 0.3s; /* Thêm hiệu ứng chuyển màu */
+}
+
+button:hover {
+    background-color: #0056b3; /* Màu khi hover */
+}
+  
+h1 {
+    font-size: 2.5em; /* Kích thước chữ cho tiêu đề */
+    margin-bottom: 10px;
+}
+  
+h2 {
+    font-size: 1.8em; /* Kích thước chữ cho tiêu đề phụ */
+    margin-bottom: 20px;
+}
+  
+p {
+    font-size: 1.2em; /* Kích thước chữ cho đoạn văn */
+    margin-bottom: 30px;
+}
