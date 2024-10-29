@@ -1,0 +1,189 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.page-title {
+    position: absolute;
+    top: 20px; 
+    left: 20px; 
+    text-align: left;
+    font-size: 2.5rem; /* Tăng kích thước font */
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.new-arrivals {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    width: 100%; 
+    margin-top: 80px; /* Giảm khoảng cách trên */
+}
+
+.product {
+    flex: 1 1 calc(33.333% - 40px);
+    max-width: 380px;
+    box-sizing: border-box;
+    position: relative;
+    margin: 0; 
+}
+
+.product-image {
+    position: relative;
+}
+
+.product img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.sale {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding: 5px 10px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.cart-icon {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    text-decoration: none;
+}
+
+.cart-icon:hover {
+    background-color: #555;
+}
+
+.product-info {
+    padding: 10px;
+    text-align: center;
+}
+
+.product-info a {
+    color: #333;
+    text-decoration: none;
+}
+
+.product-info a:hover {
+    text-decoration: underline;
+}
+
+.offer {
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+    margin: 40px 0;
+}
+
+.full-width-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.offer-content {
+    position: absolute;
+    top: 50%;
+    right: 10%;
+    transform: translateY(-50%);
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    text-align: right;
+    border-radius: 8px;
+    max-width: 300px;
+}
+
+.offer-content h3 {
+    font-size: 2rem; /* Tăng kích thước font */
+    margin-bottom: 10px;
+}
+
+.offer-content p {
+    margin-bottom: 10px;
+}
+
+.offer-content .btn {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.newsletter {
+    text-align: center;
+    padding: 20px;
+}
+
+.newsletter h2 {
+    font-size: 2rem; /* Tăng kích thước font */
+    margin-bottom: 10px;
+}
+
+.newsletter p {
+    margin-bottom: 10px;
+}
+
+.newsletter form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.newsletter input[type="email"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.newsletter button[type="submit"] {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.back-button {
+    display: inline-block;
+    position: absolute; /* Sử dụng `position: absolute` để có thể di chuyển nút. */
+    top: 20px; /* Đặt khoảng cách từ cạnh trên của màn hình. */
+    right: 20px; /* Đặt khoảng cách từ cạnh phải của màn hình. */
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.back-button i {
+    margin-right: 5px;
+}
+
+.back-button:hover {
+    background-color: #555;
+}
