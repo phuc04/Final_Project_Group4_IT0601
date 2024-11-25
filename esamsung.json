@@ -1,0 +1,9 @@
+{
+  "id": "ca25847c-05b4-4776-8db9-a0988f2ff178",
+  "name": "esamsung",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

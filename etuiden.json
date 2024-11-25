@@ -1,0 +1,9 @@
+{
+  "id": "cdd78fa9-994b-45d7-a4ef-2e2b6edee5c4",
+  "name": "etuiden",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

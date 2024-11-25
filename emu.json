@@ -1,0 +1,9 @@
+{
+  "id": "ad3d6909-2f39-4045-8e44-88be7d5821b7",
+  "name": "emu",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

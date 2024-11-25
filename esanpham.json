@@ -1,0 +1,9 @@
+{
+  "id": "f227e686-4cf9-4120-bfc5-1232167f8252",
+  "name": "esanpham",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
