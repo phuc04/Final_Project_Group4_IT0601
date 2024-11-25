@@ -1,0 +1,9 @@
+{
+  "id": "fdb55ac0-d2d3-4110-ba42-2881799119c1",
+  "name": "evaytron",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
