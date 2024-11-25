@@ -1,0 +1,47 @@
+[
+  {
+    "id": "83f2b6eb-04d8-4bc7-bed7-3f66958a768d",
+    "data": [
+      {
+        "text": "map",
+        "meta": "@ediachi",
+        "alias": "ediachi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3eda8850-cd8c-4c12-895b-1a8d0a0d6c9c",
+    "data": [
+      {
+        "text": "địa chỉ",
+        "meta": "@ediachi",
+        "alias": "ediachi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48742f8e-e064-4579-b8f2-9cd69d749d8d",
+    "data": [
+      {
+        "text": "vị trí",
+        "meta": "@ediachi",
+        "alias": "ediachi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

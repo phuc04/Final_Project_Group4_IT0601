@@ -1,0 +1,32 @@
+[
+  {
+    "id": "19373c8f-3da6-4bbc-8d69-7aa98de5d9ff",
+    "data": [
+      {
+        "text": "size",
+        "meta": "@ekichthuoc",
+        "alias": "ekichthuoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "780de092-9031-45f5-9a7c-069adefb5970",
+    "data": [
+      {
+        "text": "kích thước",
+        "meta": "@ekichthuoc",
+        "alias": "ekichthuoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

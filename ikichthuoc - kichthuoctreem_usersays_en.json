@@ -1,0 +1,137 @@
+[
+  {
+    "id": "164f3011-de79-406f-84a1-165febd8b2f1",
+    "data": [
+      {
+        "text": "size quần áo của trẻ em",
+        "meta": "@ekichcodotreem",
+        "alias": "ekichcodotreem",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "115b6afa-0e69-44ef-965c-c902a86420ce",
+    "data": [
+      {
+        "text": "kích thước quần áo của trẻ em",
+        "meta": "@ekichcodotreem",
+        "alias": "ekichcodotreem",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2724e3c-972a-483d-bcbf-ffbcba3ecbc2",
+    "data": [
+      {
+        "text": "size quần áo cho trẻ em",
+        "meta": "@ekichcodotreem",
+        "alias": "ekichcodotreem",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4017c449-3c73-4ed0-b850-287d72589d3c",
+    "data": [
+      {
+        "text": "size quần áo trẻ em",
+        "meta": "@ekichcodotreem",
+        "alias": "ekichcodotreem",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdefaa71-e8c6-4105-92e8-6d3251dffcf0",
+    "data": [
+      {
+        "text": "Kích thước quần áo cho trẻ em",
+        "meta": "@ekichcodotreem",
+        "alias": "ekichcodotreem",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37b35a1c-a12b-481b-b575-f65438e3fe12",
+    "data": [
+      {
+        "text": "kích thước quần áo trẻ em",
+        "meta": "@ekichcodotreem",
+        "alias": "ekichcodotreem",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8561cf60-4cd6-4690-998b-15464edb9d64",
+    "data": [
+      {
+        "text": "kích thước đồ trẻ em",
+        "meta": "@ekichcodotreem",
+        "alias": "ekichcodotreem",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "221de1b7-f56e-47b2-ae40-ef6af8f6e1e7",
+    "data": [
+      {
+        "text": "kích cỡ đồ trẻ em",
+        "meta": "@ekichcodotreem",
+        "alias": "ekichcodotreem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a704e160-971c-4acb-bdda-0d526a4a0147",
+    "data": [
+      {
+        "text": "size trẻ em",
+        "meta": "@ekichcodotreem",
+        "alias": "ekichcodotreem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

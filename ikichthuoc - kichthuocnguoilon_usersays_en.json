@@ -1,0 +1,137 @@
+[
+  {
+    "id": "f4a43de1-5e9d-416e-9022-fe0519f49b10",
+    "data": [
+      {
+        "text": "size quần áo của người lớn",
+        "meta": "@ekichthuocnguoilon",
+        "alias": "ekichthuocnguoilon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1af14b42-b861-425f-9065-b2dc94b80422",
+    "data": [
+      {
+        "text": "kích thước quần áo của người lớn",
+        "meta": "@ekichthuocnguoilon",
+        "alias": "ekichthuocnguoilon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "978173b9-fc41-4fa8-a07d-0356ace62031",
+    "data": [
+      {
+        "text": "size quần áo cho người lớn",
+        "meta": "@ekichthuocnguoilon",
+        "alias": "ekichthuocnguoilon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdeeaa55-9a60-4246-9adf-d5411d3a951a",
+    "data": [
+      {
+        "text": "size quần áo người lớn",
+        "meta": "@ekichthuocnguoilon",
+        "alias": "ekichthuocnguoilon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a107a44-7bca-4fcc-af96-ba5ff5187c26",
+    "data": [
+      {
+        "text": "kích thước quần áo cho người lớn",
+        "meta": "@ekichthuocnguoilon",
+        "alias": "ekichthuocnguoilon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0046da21-3cc8-40e0-8366-28dd95765729",
+    "data": [
+      {
+        "text": "Kích thước quần áo người lớn",
+        "meta": "@ekichthuocnguoilon",
+        "alias": "ekichthuocnguoilon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97aa1932-7ec5-45b6-bc60-b7d47858861c",
+    "data": [
+      {
+        "text": "kích cơ người lớn",
+        "meta": "@ekichthuocnguoilon",
+        "alias": "ekichthuocnguoilon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff9eec78-a281-4b4c-a735-5f82a56eb3bf",
+    "data": [
+      {
+        "text": "kích thước người lớn",
+        "meta": "@ekichthuocnguoilon",
+        "alias": "ekichthuocnguoilon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "154a541c-e380-4ccb-85bd-a02e5163f6d1",
+    "data": [
+      {
+        "text": "size người lớn",
+        "meta": "@ekichthuocnguoilon",
+        "alias": "ekichthuocnguoilon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
