@@ -1,0 +1,74 @@
+{
+  "id": "2fb1798f-4aff-44f2-84b1-f78df87d9534",
+  "parentId": "9137e6f2-f310-4958-ae89-7c553c601803",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidobenam - maudo",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidobenam-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidobenam-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c5a4fd96-3f79-4490-80e5-5ca92283c416",
+          "name": "eboquanaobetraimaudo",
+          "required": false,
+          "dataType": "@eboquanaobetraimaudo",
+          "value": "$eboquanaobetraimaudo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "height": "15px",
+                  "type": "image",
+                  "accessibilityText": "image",
+                  "rawUrl": "https://down-vn.img.susercontent.com/file/857775007080fdcd2975269d564b43f8",
+                  "width": "20px"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Chất liệu: Vải cotton cao cấp, mềm mại và thoáng khí, giúp bé luôn cảm thấy dễ chịu trong mọi hoạt động hàng ngày.\n\nThiết kế: Áo cộc tay kết hợp với quần ngắn, phù hợp cho mùa hè và các hoạt động ngoài trời. Thiết kế đơn giản nhưng không kém phần tinh tế, với các đường may chắc chắn, bền đẹp.\n\nHọa tiết: Áo có in họa tiết dễ thương, phù hợp với sở thích của các bé trai. Màu đỏ chủ đạo kết hợp với các chi tiết nhỏ như logo, hình ảnh ngộ nghĩnh, tăng thêm phần đáng yêu.\n\nSử dụng: Phù hợp cho các dịp đi chơi, dạo phố, đi học hay tham gia các hoạt động thể thao nhẹ nhàng. Dễ dàng kết hợp với giày thể thao, nón hoặc các phụ kiện khác để tạo nên phong cách riêng cho bé.\n\nHiện tại shop đang bán với 250k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "72ae73bf-72e8-4cd3-a7eb-610ae0131a5f",
+  "parentId": "7d2cc683-306c-46f0-ad49-206a55598df7",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidobegai - vayyemvaaothunbegai",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidobegai-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidobegai-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "67682452-c823-45b7-8c74-070089732f87",
+          "name": "evayyemvaaothunbegai",
+          "required": false,
+          "dataType": "@evayyemvaaothunbegai",
+          "value": "$evayyemvaaothunbegai",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "width": "20px",
+                  "rawUrl": "https://bqn.1cdn.vn/2022/10/03/images.baoquangnam.vn-storage-newsportal-2022-10-3-132829-_d1.png",
+                  "accessibilityText": "image",
+                  "height": "15px"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Bộ Váy Yếm và Áo Thun Nữ Màu Nâu\nChất Liệu:\n\nVáy Yếm: Được làm từ vải denim hoặc vải kaki cao cấp, mang lại cảm giác mềm mại và thoáng mát. Chất liệu này đảm bảo độ bền cao và giữ form tốt.\n\nÁo Thun: Chất liệu cotton pha spandex, mềm mại, co giãn nhẹ và thấm hút mồ hôi tốt, giúp bạn luôn cảm thấy thoải mái khi mặc.\n\nThiết Kế:\n\nMàu Nâu Thanh Lịch: Bộ váy yếm và áo thun màu nâu mang đến vẻ đẹp thanh lịch, dễ dàng phối hợp với nhiều trang phục và phụ kiện khác nhau.\n\nVáy Yếm: Thiết kế váy yếm cổ điển, với dây đeo có thể điều chỉnh độ dài, tạo sự thoải mái khi mặc.\n\nÁo Thun: Thiết kế áo thun tay ngắn hoặc dài, ôm vừa vặn, phù hợp với nhiều dáng người và mang lại vẻ ngoài năng động, trẻ trung.\n\nTính Năng Nổi Bật:\n\nThoáng Mát và Co Giãn: Chất liệu áo thun co giãn nhẹ và thoáng mát, không gây bí bách khi mặc suốt ngày dài.\n\nDễ Phối Đồ: Bộ váy yếm và áo thun màu nâu dễ dàng phối hợp với nhiều loại trang phục và phụ kiện, từ giày thể thao đến giày búp bê, từ balo đến túi xách tay.\n\nBền Bỉ: Chất liệu cao cấp đảm bảo độ bền và khả năng giữ form tốt sau nhiều lần giặt.\n\nPhong Cách:\n\nNăng Động và Trẻ Trung: Bộ váy yếm và áo thun mang lại vẻ ngoài năng động, trẻ trung, phù hợp với nhiều hoàn cảnh, từ đi học, đi làm đến dạo phố.\n\nThanh Lịch và Đa Dụng: Màu nâu thanh lịch và thiết kế đa dụng, dễ dàng biến tấu để phù hợp với nhiều phong cách khác nhau.\n\nGiá bán: 250k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

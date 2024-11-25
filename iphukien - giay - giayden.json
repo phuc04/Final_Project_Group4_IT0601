@@ -1,0 +1,74 @@
+{
+  "id": "97a79f88-6c74-41e8-8689-acbcc9405401",
+  "parentId": "82cf895d-bfdd-4e7e-b671-cda93388f190",
+  "rootParentId": "5bc0d923-31d9-417d-bb82-0698d8cb46c2",
+  "name": "iphukien - giay - giayden",
+  "auto": true,
+  "contexts": [
+    "iphukien-giay-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iphukien.iphukien-custom.iphukien-giay-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "514b228e-acbc-499c-9336-c2dcbbbc367f",
+          "name": "egiayden",
+          "required": false,
+          "dataType": "@egiayden",
+          "value": "$egiayden",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "accessibilityText": "image",
+                  "type": "image",
+                  "height": "15px",
+                  "rawUrl": "https://www.vascara.com/uploads/cms_productmedia/2024/February/16/giay-the-thao-luu-hoa-v-sneaker---snk-0001---mau-den__74470__1708057369-medium.jpg",
+                  "width": "20px"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Giày Đen\n\nChất Liệu:\n\nDa Thật/Cao Cấp: Giày được làm từ da thật hoặc chất liệu cao cấp, đảm bảo độ bền và vẻ ngoài bóng đẹp theo thời gian.\n\nVải Lót: Bên trong giày được lót bằng vải mềm mại, giúp thấm hút mồ hôi và mang lại cảm giác thoải mái cho đôi chân.\n\nThiết Kế:\n\nMàu Đen Cổ Điển: Màu đen sang trọng và tinh tế, dễ dàng kết hợp với nhiều loại trang phục khác nhau.\n\nKiểu Dáng Hiện Đại: Thiết kế đơn giản nhưng đầy tinh tế, phù hợp với xu hướng thời trang hiện đại.\n\nĐế Giày Chống Trượt: Đế giày làm từ cao su chống trượt, giúp bạn di chuyển dễ dàng và an toàn trên mọi bề mặt.\n\nGiá bán: 800k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

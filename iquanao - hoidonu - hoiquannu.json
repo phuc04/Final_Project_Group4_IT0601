@@ -1,0 +1,59 @@
+{
+  "id": "6d00cb11-7a98-47ab-bb8c-12bf0d04fcda",
+  "parentId": "f6e0c660-2fcd-48db-bf76-cb41d8e9c893",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonu - hoiquannu",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonu-custom",
+      "affectedContexts": [
+        {
+          "name": "iquanao-hoidonu-hoiquannu-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "823eadc4-9a7a-4194-8ea3-6279ceb0a28a",
+          "name": "ehoiquannu",
+          "required": false,
+          "dataType": "@ehoiquannu",
+          "value": "$ehoiquannu",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop hiện có sẵn quần vải  với hai màu đen và đen chấm bi. Bạn muốn mình tư vấn mẫu nào ạ? 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

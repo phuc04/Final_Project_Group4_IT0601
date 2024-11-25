@@ -1,0 +1,74 @@
+{
+  "id": "a97f779b-8524-435c-b190-292447481f70",
+  "parentId": "f79a0b8c-46ee-4db2-9fc3-49bbc3680efc",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonam - hoiaonam - aophong - phongtrang",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonam-hoiaonam-aophong-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonam-custom.iquanao-hoidonam-hoiaonam-custom.iquanao-hoidonam-hoiaonam-aophong-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6918069b-ec6c-4400-9ceb-ef9eabf76ba6",
+          "name": "eaophongtrang",
+          "required": false,
+          "dataType": "@eaophongtrang",
+          "value": "$eaophongtrang",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "width": "20px",
+                  "rawUrl": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lvk5opxdo1zw98.webp",
+                  "height": "15px",
+                  "accessibilityText": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Áo Phông Nam Màu Trắng\n\nMô tả Sản phẩm:\n\nChiếc áo phông nam màu trắng này là sự lựa chọn tuyệt vời cho phong cách thời trang hàng ngày. Với thiết kế tối giản và chất liệu cao cấp, chiếc áo này mang lại vẻ ngoài thanh lịch và thoải mái cho người mặc.\n\nChất liệu cao cấp: Được làm từ 100% cotton, chiếc áo này mang lại cảm giác mềm mại và thoáng mát, giúp bạn thoải mái suốt cả ngày.\n\nThiết kế đơn giản: Kiểu dáng cổ điển với form áo vừa vặn, không quá ôm cũng không quá rộng, phù hợp với nhiều dáng người.\n\nMàu trắng tinh tế: Màu trắng dễ dàng kết hợp với nhiều loại quần và phụ kiện khác nhau, từ quần jeans năng động đến quần âu lịch sự.\n\nPhù hợp nhiều dịp: Chiếc áo này lý tưởng cho các hoạt động hàng ngày như đi làm, đi học, dạo phố, hay thậm chí là các buổi gặp gỡ bạn bè không chính thức.\n\nDễ bảo quản: Chất liệu bền bỉ và dễ giặt giũ, giúp giữ cho chiếc áo luôn như mới dù đã qua nhiều lần sử dụng.\n\nGiá bán: 300k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

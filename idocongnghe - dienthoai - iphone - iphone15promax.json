@@ -1,0 +1,74 @@
+{
+  "id": "180f3cd5-8ccd-4faf-8890-188c009e0151",
+  "parentId": "0466e415-b9ce-4ba3-a174-d27cc5299668",
+  "rootParentId": "7dd3bc4c-92e4-440b-a2b5-8c1380651249",
+  "name": "idocongnghe - dienthoai - iphone - iphone15promax",
+  "auto": true,
+  "contexts": [
+    "idocongnghe-dienthoai-iphone-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "idocongnghe.idocongnghe-custom.idocongnghe-dienthoai-custom-2.idocongnghe-dienthoai-iphone-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "262ba5f3-d122-4026-a87d-e9cae8e33014",
+          "name": "eiphone15",
+          "required": false,
+          "dataType": "@eiphone15",
+          "value": "$eiphone15",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "height": "15px",
+                  "type": "image",
+                  "accessibilityText": "image",
+                  "rawUrl": "https://cdn.hoanghamobile.com/i/content/Uploads/2023/12/14/iphone-15-pro-max-natural-titanium-1-hhm.jpg",
+                  "width": "20px"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thiết Kế:\nChất liệu: Khung titan cao cấp, nhẹ hơn nhưng cứng cáp hơn so với thép không gỉ. Chất liệu titan giúp giảm trọng lượng nhưng vẫn mang lại độ bền vượt trội.\nMàu sắc: Titan xanh (Blue Titanium) là một tông màu xanh đậm, pha chút ánh kim, tạo cảm giác vừa mạnh mẽ vừa thanh lịch.\nCạnh viền: Thiết kế vát phẳng, các góc bo cong tinh tế giúp cầm nắm thoải mái.\nLogo Apple: Được khắc tinh tế trên mặt lưng kính mờ, tạo hiệu ứng bóng mờ nhẹ dưới ánh sáng.\n\nMàn Hình:\nKích thước: 6.7 inch Super Retina XDR OLED.\nĐộ phân giải: 2796 x 1290 pixel (~460 ppi).\nTần số quét: ProMotion 120Hz, hỗ trợ HDR10 và Dolby Vision, mang đến trải nghiệm mượt mà và hình ảnh sống động.\nĐộ sáng: Tối đa 2.000 nits, lý tưởng cho việc sử dụng ngoài trời.\n\nHiệu Năng:\nChip xử lý: A17 Pro, được sản xuất trên tiến trình 3nm, mang đến hiệu năng vượt trội và khả năng tiết kiệm năng lượng tối ưu.\nGPU: Nâng cấp mạnh mẽ, hỗ trợ chơi game đồ họa cao cấp và các tác vụ AI, AR.\nBộ nhớ: Các tùy chọn 256GB, 512GB, 1TB.\n\nCamera:\nHệ thống camera Pro:\nCamera chính: 48MP với cảm biến lớn, hỗ trợ ảnh chi tiết và chụp thiếu sáng tốt hơn.\nCamera telephoto: Zoom quang học 5x (độc quyền trên bản Pro Max), lý tưởng để chụp chân dung hoặc cảnh xa.\nCamera góc siêu rộng: 12MP với tính năng macro cải tiến.\nCamera trước: 12MP, hỗ trợ quay video 4K và chụp ảnh selfie tốt hơn.\nTính năng đặc biệt: Photonic Engine, ProRAW, ProRes, quay video không gian (spatial video).\n\nPin và Sạc:\nDung lượng pin: Dùng cả ngày với thời gian phát video liên tục lên đến 29 giờ.\nCổng sạc: USB-C (hỗ trợ tốc độ truyền dữ liệu nhanh).\nSạc không dây: Hỗ trợ MagSafe và Qi2.\n\nGiá bán: 28,690,000 vnđ"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

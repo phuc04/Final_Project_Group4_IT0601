@@ -1,0 +1,74 @@
+{
+  "id": "a955bba9-8f1e-43d5-b593-55cbc6ff332c",
+  "parentId": "d1e1ecd4-47fe-42b2-860c-fc0da7c3bf64",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidothethao - quanvaithethao",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidothethao-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidothethao-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f9f91c5a-3216-4735-9d6b-c3007de8020b",
+          "name": "equanvaithethao",
+          "required": false,
+          "dataType": "@equanvaithethao",
+          "value": "$equanvaithethao",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "accessibilityText": "image",
+                  "width": "20px",
+                  "rawUrl": "https://down-vn.img.susercontent.com/file/eb52968689185b78765a18bc93fb4cd7.webp",
+                  "height": "15px"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mô tả Sản phẩm:\n\nChiếc quần dài thể thao màu đen này là sự lựa chọn hoàn hảo cho những ai yêu thích sự thoải mái và phong cách năng động. Với chất liệu cao cấp và thiết kế hiện đại, bạn sẽ luôn cảm thấy tự tin và thoải mái trong mọi hoạt động thể thao cũng như thường ngày.\n\nChất liệu co giãn và thoáng mát: Được làm từ vải polyester pha spandex, chiếc quần này mang lại sự co giãn tối ưu và thoáng khí, giúp bạn di chuyển linh hoạt và dễ chịu.\n\nThiết kế tiện dụng: Phom dáng ôm vừa vặn, cùng với dây thắt lưng co giãn và túi kéo khóa, chiếc quần này đảm bảo sự tiện lợi và an toàn cho đồ dùng cá nhân khi vận động.\n\nMàu đen mạnh mẽ: Màu đen không chỉ mang lại vẻ ngoài mạnh mẽ và nam tính mà còn dễ dàng kết hợp với nhiều loại áo và phụ kiện khác nhau.\n\nPhù hợp nhiều hoạt động: Chiếc quần này lý tưởng cho các hoạt động thể thao như chạy bộ, tập gym, yoga, cũng như dạo phố hay các hoạt động thường ngày.\n\nDễ bảo quản: Chất liệu bền bỉ, dễ giặt giũ và nhanh khô, giữ cho chiếc quần luôn như mới sau nhiều lần sử dụng.\n\nGiá bán: 300k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

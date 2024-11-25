@@ -1,0 +1,74 @@
+{
+  "id": "29f93ab4-a85d-47d8-b12f-2ef17cc3ad89",
+  "parentId": "472cbad9-819f-4359-8ae6-d99f9945d4c1",
+  "rootParentId": "5bc0d923-31d9-417d-bb82-0698d8cb46c2",
+  "name": "iphukien - mu - mutrang",
+  "auto": true,
+  "contexts": [
+    "iphukien-mu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iphukien.iphukien-custom.iphukien-mu-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ac193d3a-e319-4179-8c15-aae5316d2ed3",
+          "name": "emutrang",
+          "required": false,
+          "dataType": "@emutrang",
+          "value": "$emutrang",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "width": "20px",
+                  "type": "image",
+                  "rawUrl": "https://yeepvn.sgp1.digitaloceanspaces.com/2023/05/sg-11134201-23020-l4wal1u087mvff.jpg",
+                  "accessibilityText": "image",
+                  "height": "15px"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mũ Li-Ning Trắng\n\nChất Liệu:\n\nVải Cao Cấp: Mũ Li-Ning trắng được làm từ chất liệu vải cao cấp, bền bỉ, mang lại cảm giác thoải mái và thoáng mát khi đội.\n\nChống Nắng Tốt: Chất liệu vải giúp bảo vệ đầu và khuôn mặt khỏi tác hại của tia UV, giữ cho da luôn khỏe mạnh.\n\nThiết Kế:\n\nMàu Trắng Tinh Khiết: Màu trắng đơn giản nhưng sang trọng, dễ dàng phối hợp với nhiều trang phục khác nhau.\n\nLogo Li-Ning: Logo thương hiệu Li-Ning được in nổi bật trên phần trước của mũ, tạo điểm nhấn thời trang và khẳng định đẳng cấp.\n\nKiểu Dáng Thể Thao: Thiết kế năng động, phù hợp cho các hoạt động thể thao hoặc dạo phố.\n\nKhóa Điều Chỉnh: Có khóa điều chỉnh phía sau, giúp điều chỉnh kích thước mũ phù hợp với mọi kích cỡ đầu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

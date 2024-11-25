@@ -1,0 +1,74 @@
+{
+  "id": "a664e71f-0636-4e5e-874a-441623cfe90e",
+  "parentId": "8fdea29e-9eda-4594-aa2c-18202a360342",
+  "rootParentId": "7dd3bc4c-92e4-440b-a2b5-8c1380651249",
+  "name": "idocongnghe - tivi - smarttivioledlg4k",
+  "auto": true,
+  "contexts": [
+    "idocongnghe-tivi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "idocongnghe.idocongnghe-custom.idocongnghe-tivi-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "960c453d-3ad7-4230-8b6b-f4accb1d50e6",
+          "name": "esmarttivioledlg4k",
+          "required": false,
+          "dataType": "@esmarttivioledlg4k",
+          "value": "$esmarttivioledlg4k",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "height": "15px",
+                  "rawUrl": "https://cdn.tgdd.vn/Products/Images/1942/324906/tivi-oled-lg-4k-77-inch-77c4psa-1-700x467.jpg",
+                  "width": "20px",
+                  "type": "image",
+                  "accessibilityText": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "LG 83-inch OLED evo 4K TV (model OLED83C44LA) mang lại trải nghiệm điện ảnh tuyệt vời nhờ công nghệ OLED evo tiên tiến. Màn hình OLED với các điểm ảnh tự chiếu sáng mang đến độ tương phản và chi tiết sống động. Màn hình OLED evo cải thiện độ sáng và sự tươi sáng của màu sắc, cung cấp hình ảnh chân thực, tự nhiên. Bộ xử lý AI Alpha 9 Gen 7 nâng cao chất lượng hình ảnh với khả năng tối ưu hóa độ sáng, tăng cường AI và điều chỉnh dải động HDR​.\n\nVới Dolby Vision và chế độ Filmmaker Mode, TV tái hiện lại cảm giác điện ảnh, cho phép bạn thưởng thức các bộ phim theo cách mà đạo diễn mong muốn. TV cũng được tối ưu hóa cho trò chơi, với hỗ trợ HDMI 2.1, tần số làm mới 4K/144Hz, và tương thích với NVIDIA G-SYNC và AMD FreeSync, mang lại trải nghiệm chơi game mượt mà​.\n\nNgoài ra, TV sử dụng công nghệ âm thanh AI Sound Pro để tạo ra âm thanh sống động, hệ điều hành webOS 24 cung cấp các đề xuất cá nhân hóa, năm năm cập nhật miễn phí và dễ dàng truy cập các ứng dụng phát trực tuyến​.\n\nGiá bán: 125,890,000 vnđ"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

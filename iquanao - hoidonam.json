@@ -1,0 +1,59 @@
+{
+  "id": "12e36d16-bf65-4d93-9d6d-6ea41186891a",
+  "parentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonam",
+  "auto": true,
+  "contexts": [
+    "iquanao-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom",
+      "affectedContexts": [
+        {
+          "name": "iquanao-hoidonam-followup",
+          "lifespan": 1111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a50cc2ae-132a-4e93-9d4b-38fdd5ec956d",
+          "name": "ehoidonam",
+          "required": false,
+          "dataType": "@ehoidonam",
+          "value": "$ehoidonam",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop cung cấp cả quần và áo dành cho nam. Bạn đang quan tâm đến sản phẩm nào hơn? 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

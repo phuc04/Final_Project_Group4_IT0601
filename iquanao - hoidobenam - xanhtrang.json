@@ -1,0 +1,74 @@
+{
+  "id": "0d8262e3-962b-4181-9ce7-1551840bf01e",
+  "parentId": "9137e6f2-f310-4958-ae89-7c553c601803",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidobenam - xanhtrang",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidobenam-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidobenam-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "71a6ee4c-bdb0-4920-9268-6d732fc033ff",
+          "name": "eboquanaobetraimauxanhtrang",
+          "required": false,
+          "dataType": "@eboquanaobetraimauxanhtrang",
+          "value": "$eboquanaobetraimauxanhtrang",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "width": "20px",
+                  "rawUrl": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/bo-do-tre-em-yody-BDK7146-XDU%20(9).JPG",
+                  "type": "image",
+                  "height": "15px",
+                  "accessibilityText": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Bộ Quần Áo Nam Trẻ Em Màu Xanh Trắng\nMô Tả Chi Tiết:\nBộ quần áo này là sự kết hợp hoàn hảo giữa sự thoải mái và phong cách, rất phù hợp cho các bé trai năng động.\n\nÁo Thun Xanh Trắng:\n\nChất liệu: Được làm từ vải cotton cao cấp, mềm mại và thoáng mát, giúp bé luôn cảm thấy dễ chịu trong những ngày hè oi bức.\n\nThiết kế: Áo thun có màu xanh trắng tươi sáng, với họa tiết in hình ngộ nghĩnh hoặc kẻ sọc tạo điểm nhấn. Áo có cổ tròn và tay ngắn, phù hợp cho các hoạt động vui chơi ngoài trời.\n\nĐặc điểm nổi bật: Khả năng thấm hút mồ hôi tốt, giữ cho cơ thể bé luôn khô ráo và thoáng mát.\n\nQuần Shorts Xanh Trắng:\n\nChất liệu: Vải cotton pha poly, co giãn tốt, mang lại sự thoải mái và dễ chịu cho bé khi di chuyển.\n\nThiết kế: Quần shorts có màu xanh trắng đồng bộ với áo thun, thiết kế đơn giản nhưng không kém phần thời trang. Quần có dây thun co giãn ở eo, dễ dàng điều chỉnh kích thước cho vừa vặn.\n\nĐặc điểm nổi bật: Dễ phối hợp với nhiều loại áo khác nhau, từ áo thun cho đến áo sơ mi, phù hợp cho các hoạt động hàng ngày và cả những dịp đi chơi.\n\nGiá: 250k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

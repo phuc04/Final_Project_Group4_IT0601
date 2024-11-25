@@ -1,0 +1,74 @@
+{
+  "id": "9e68fc59-0b41-459b-93ea-3d40d4c2826d",
+  "parentId": "49ba7257-e93e-4c7a-8ea5-c795bfcace68",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonam - hoiquannam - hoiquandai - quandainammauden",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonam-hoiquannam-hoiquandai-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonam-custom.iquanao-hoidonam-hoiquannam-custom.iquanao-hoidonam-hoiquannam-hoiquandai-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ccfd7e4a-9d09-46cd-b02d-6c4b5b6944c8",
+          "name": "equanvainammauden",
+          "required": false,
+          "dataType": "@equanvainammauden",
+          "value": "$equanvainammauden",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "rawUrl": "https://polomanor.vn/cdn/shop/files/Polomanor_KakiSD_den_25012024_1.jpg?v\u003d1714725354\u0026width\u003d1508",
+                  "width": "20px",
+                  "accessibilityText": "image",
+                  "height": "15px"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Quần Dài Nam Màu Đen\nChất Liệu:\n\nCotton Pha Spandex: Được làm từ cotton pha spandex, mang lại sự mềm mại, thoáng mát và độ co giãn nhẹ, giúp bạn luôn cảm thấy thoải mái khi di chuyển.\n\nPolyester: Bổ sung polyester giúp tăng độ bền và giữ form quần lâu hơn.\n\nThiết Kế:\n\nMàu Đen Cổ Điển: Màu đen là lựa chọn không bao giờ lỗi mốt, dễ dàng kết hợp với mọi loại trang phục.\n\nKiểu Dáng Regular Fit: Thiết kế vừa vặn, ôm vừa phải, phù hợp với nhiều dáng người, mang lại vẻ ngoài thanh lịch và nam tính.\n\nCạp Quần Cố Định: Cạp quần được thiết kế chắc chắn, có khóa kéo và nút cài, mang lại sự tiện lợi và an toàn.\n\nTúi Tiện Lợi: Có túi trước và túi sau tiện lợi, giúp bạn dễ dàng mang theo các vật dụng cá nhân như ví, điện thoại.\n\nTính Năng Nổi Bật:\n\nThoáng Mát: Chất liệu cotton pha spandex giúp quần thoáng khí, không gây cảm giác bí bách.\n\nCo Giãn Nhẹ: Độ co giãn vừa phải giúp bạn di chuyển dễ dàng và thoải mái suốt cả ngày.\n\nGiữ Form Tốt: Polyester giúp quần giữ form dáng tốt, không bị nhăn nhúm sau nhiều lần giặt.\n\nDễ Phối Đồ: Màu đen dễ dàng kết hợp với nhiều loại trang phục và phụ kiện, từ áo sơ mi, áo thun đến giày thể thao hay giày tây.\n\nPhong Cách:\n\nThanh Lịch và Nam Tính: Quần dài màu đen mang lại vẻ ngoài thanh lịch, nam tính và phù hợp với nhiều hoàn cảnh.\n\nĐa Dụng: Có thể mặc đi làm, đi học, dạo phố hay dự tiệc đều phù hợp."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

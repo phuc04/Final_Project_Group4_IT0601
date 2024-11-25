@@ -1,0 +1,74 @@
+{
+  "id": "b47c72bb-f805-46fd-8e38-72b9cd357e9e",
+  "parentId": "30d04d1f-01ea-4877-9273-1b41e2b37012",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidothethao - aothethaochonamvanu - aothethaococtaypuma - custom",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidothethao-aothethaochonamvanu-aothethaococtaypuma-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidothethao-custom-2.iquanao-hoidothethao-aothethaochonamvanu-custom.iquanao-hoidothethao-aothethaochonamvanu-aothethaococtaypuma-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "83eb0df0-6560-41b7-a6e7-28b89bfd0883",
+          "name": "epumatrang",
+          "required": false,
+          "dataType": "@epumatrang",
+          "value": "$epumatrang",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "height": "15px",
+                  "accessibilityText": "image",
+                  "rawUrl": "https://us03-imgcdn.ymcart.com/52121/2020/05/09/b/5/b5369e2c40477f4a.jpg?x-oss-process\u003dimage/quality,Q_90/auto-orient,1/resize,m_lfit,w_1500,h_1500/format,webp",
+                  "width": "20px",
+                  "type": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Áo Thể Thao Màu Trắng (Puma)\n\nMô tả Sản phẩm:\n\nChiếc áo thể thao màu trắng của Puma là sự kết hợp hoàn hảo giữa phong cách và hiệu suất. Với chất liệu cao cấp và thiết kế tiện dụng, chiếc áo này sẽ giúp bạn tự tin trong mọi hoạt động thể thao và hàng ngày.\n\nChất liệu thoải mái: Được làm từ vải polyester co giãn và thoáng khí, chiếc áo này mang lại sự dễ chịu và thoáng mát cho người mặc, giúp bạn tự tin vận động.\n\nThiết kế thể thao: Kiểu dáng trẻ trung, ôm sát vừa phải, tôn lên vóc dáng mà vẫn đảm bảo sự thoải mái khi di chuyển.\n\nPhù hợp nhiều hoạt động: Chiếc áo này lý tưởng cho các hoạt động thể thao như chạy bộ, yoga, hoặc thậm chí là dạo phố và các hoạt động thường ngày.\n\nDễ bảo quản: Chất liệu bền bỉ, dễ giặt giũ và nhanh khô, giúp giữ cho chiếc áo luôn như mới sau nhiều lần sử dụng.\n\nMàu sắc và họa tiết đa dạng: Màu trắng tinh khôi và họa tiết năng động, dễ dàng kết hợp với nhiều phụ kiện thể thao khác.\n\nGiá bán: 400k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

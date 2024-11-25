@@ -1,0 +1,74 @@
+{
+  "id": "491efa3b-89fc-482c-93c0-4821982cbb3f",
+  "parentId": "30d04d1f-01ea-4877-9273-1b41e2b37012",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidothethao - aothethaochonamvanu - aothethaococtaypuma - pumaden",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidothethao-aothethaochonamvanu-aothethaococtaypuma-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidothethao-custom-2.iquanao-hoidothethao-aothethaochonamvanu-custom.iquanao-hoidothethao-aothethaochonamvanu-aothethaococtaypuma-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "184637bc-cb51-47da-8e84-cd509db74370",
+          "name": "epumaden",
+          "required": false,
+          "dataType": "@epumaden",
+          "value": "$epumaden",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "width": "20px",
+                  "height": "15px",
+                  "type": "image",
+                  "accessibilityText": "image",
+                  "rawUrl": "https://cdn.vuahanghieu.com/unsafe/0x900/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2021/12/ao-thun-puma-essentials-logo-men-s-tee-mau-den-size-m-61b164d3e9fae-09122021090715.jpg"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Áo Thể Thao Màu Đen (Puma)\n\nMô tả Sản phẩm:\n\nChiếc áo thể thao màu đen của Puma là sự kết hợp hoàn hảo giữa phong cách và hiệu suất. Với chất liệu cao cấp và thiết kế tiện dụng, chiếc áo này sẽ giúp bạn tự tin trong mọi hoạt động thể thao và hàng ngày.\n\nChất liệu thoải mái: Được làm từ vải polyester co giãn và thoáng khí, chiếc áo này mang lại sự dễ chịu và thoáng mát cho người mặc, giúp bạn tự tin vận động.\n\nThiết kế thể thao: Kiểu dáng trẻ trung, ôm sát vừa phải, tôn lên vóc dáng mà vẫn đảm bảo sự thoải mái khi di chuyển.\n\nPhù hợp nhiều hoạt động: Chiếc áo này lý tưởng cho các hoạt động thể thao như chạy bộ, yoga, hoặc thậm chí là dạo phố và các hoạt động thường ngày.\n\nDễ bảo quản: Chất liệu bền bỉ, dễ giặt giũ và nhanh khô, giúp giữ cho chiếc áo luôn như mới sau nhiều lần sử dụng.\n\nMàu sắc và họa tiết đa dạng: Màu đen tinh khôi và họa tiết năng động, dễ dàng kết hợp với nhiều phụ kiện thể thao khác.\n\nGiá bán: 400k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

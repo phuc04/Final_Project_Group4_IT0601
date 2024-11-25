@@ -1,0 +1,74 @@
+{
+  "id": "8bf76aeb-200f-4ff9-8d99-c4af9b2dbb29",
+  "parentId": "8f53aa8f-9c01-4eae-9981-9c361c9fe17a",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidothethao - aothethaochonamnu - aothethaodaitaychonamnu - aothethaodaitaychonamnumaucam",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidothethao-aothethaochonamvanu-aothethaodaitaychonamvanu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidothethao-custom-2.iquanao-hoidothethao-aothethaochonamvanu-custom.iquanao-hoidothethao-aothethaochonamvanu-aothethaodaitaychonamvanu-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7e43741b-7844-45e0-845e-484a5089c7a6",
+          "name": "eaothethaodaitaychonamnumaucam",
+          "required": false,
+          "dataType": "@eaothethaodaitaychonamnumaucam",
+          "value": "$eaothethaodaitaychonamnumaucam",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "accessibilityText": "image",
+                  "width": "20px",
+                  "rawUrl": "https://img.alicdn.com/imgextra/i1/2861357024/TB2XIc6e0XXWeJjSZFvXXa6lpXa_!!2861357024.jpg_400x400.jpg_.webp",
+                  "height": "15px"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Áo Thể Thao Dài Tay Màu Cam Cho Nam \u0026 Nữ\nChất Liệu:\n\nPolyester Cao Cấp: Áo được làm từ chất liệu polyester cao cấp, mang lại sự thoải mái và độ bền cao. Chất liệu này giúp áo thấm hút mồ hôi tốt, giữ cho cơ thể luôn khô ráo và thoáng mát trong suốt quá trình tập luyện.\n\nThiết Kế:\n\nMàu Cam Sáng: Màu cam sáng và tinh tế, mang lại vẻ ngoài thanh lịch và hiện đại.\n\nKiểu Dáng Slim Fit: Thiết kế ôm vừa vặn, tôn lên dáng người nhưng vẫn đảm bảo sự thoải mái khi vận động.\n\nDây Rút Điều Chỉnh: Lưng áo có dây rút co giãn, giúp dễ dàng điều chỉnh kích cỡ, mang lại sự tiện lợi và phù hợp cho nhiều dáng người.\n\nLogo Thương Hiệu: Logo của thương hiệu được in nổi bật trên áo, tạo điểm nhấn và phong cách đặc trưng.\n\nGiá bán: 400k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

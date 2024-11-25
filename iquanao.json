@@ -1,0 +1,55 @@
+{
+  "id": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "iquanao-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e49a4257-9ca0-4e13-8dd0-b4a4f65be0af",
+          "name": "equanao",
+          "required": false,
+          "dataType": "@equanao",
+          "value": "$equanao",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop cung cấp đa dạng đồ cho nam, nữ, đồ thể thao và đồ cho bé trai, gái và đồ sơ sinh. Bạn cần tư vấn về sản phẩm nào, xin vui lòng cho chúng tôi biết nhé! 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

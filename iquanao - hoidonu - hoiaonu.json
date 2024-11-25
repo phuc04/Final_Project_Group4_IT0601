@@ -1,0 +1,59 @@
+{
+  "id": "26f720a9-924e-443c-8a35-acb5e8153307",
+  "parentId": "f6e0c660-2fcd-48db-bf76-cb41d8e9c893",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonu - hoiaonu",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonu-custom",
+      "affectedContexts": [
+        {
+          "name": "iquanao-hoidonu-hoiaonu-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d7793fa2-5196-4edc-8630-325d3b401b09",
+          "name": "ehoiaonu",
+          "required": false,
+          "dataType": "@ehoiaonu",
+          "value": "$ehoiaonu",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop có sẵn 2 mẫu áo: áo Akira vải xô và áo thun. Bạn muốn mình tư vấn mẫu nào ạ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

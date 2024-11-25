@@ -1,0 +1,74 @@
+{
+  "id": "32abd376-6894-4d18-b2c0-77a324d8e93b",
+  "parentId": "6eaca9f1-f54c-4870-90ca-0b11ef385d3a",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonam - hoiaonam - aosomi - ngantay - aosomitaynganmauxanhden",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonam-hoiaonam-aosomi-ngantay-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonam-custom.iquanao-hoidonam-hoiaonam-custom-3.iquanao-hoidonam-hoiaonam-aosomi-custom-2.iquanao-hoidonam-hoiaonam-aosomi-ngantay-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "85772eee-d1ac-4601-990c-053f8678f84a",
+          "name": "eaosomitaynganmauxanhden",
+          "required": false,
+          "dataType": "@eaosomitaynganmauxanhden",
+          "value": "$eaosomitaynganmauxanhden",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "height": "15px",
+                  "width": "20px",
+                  "rawUrl": "https://product.hstatic.net/200000404243/product/a1mn438s1-cnma002-2102-n-1_b11c80544b654eddab18b3ce349a73cd_large.jpg",
+                  "accessibilityText": "image",
+                  "type": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Áo Sơ Mi Nam Khatoco Tay Ngắn Họa Tiết Màu Xanh Đen\nChất Liệu:\n\n50% Vân Chàm và 50% Polyester: Chất liệu này mang lại sự mềm mại, thoáng mát và bền bỉ. Đồng thời, khả năng thấm hút mồ hôi tốt, giúp bạn luôn cảm thấy thoải mái suốt cả ngày.\n\nThiết Kế:\n\nHọa Tiết Xanh Đen Tinh Tế: Họa tiết màu xanh đen mang đến sự thanh lịch và nam tính, dễ dàng phối hợp với nhiều loại trang phục khác nhau.\n\nKiểu Dáng Slim Fit: Thiết kế ôm vừa vặn, tôn lên dáng hình nam tính và phong cách hiện đại.\n\nTay Ngắn: Phù hợp cho các hoạt động hàng ngày, từ đi làm, dạo phố đến dự tiệc.\n\nCổ Bẻ Truyền Thống: Cổ áo thiết kế truyền thống, dễ dàng kết hợp với cà vạt hoặc mặc không, mang lại vẻ lịch sự và thoải mái.\n\nTính Năng Nổi Bật:\n\nChống Nấm Mốc: Chất liệu có khả năng chống nấm mốc, giữ cho áo luôn sạch sẽ và an toàn cho da.\n\nDễ Dàng Làm Sạch: Áo có thể giặt máy hoặc giặt tay mà không lo phai màu, giúp tiết kiệm thời gian và công sức.\n\nGiữ Màu Sắc: Màu sắc không bị phai nhạt sau nhiều lần giặt, giúp áo luôn mới mẻ và bền đẹp.\n\nPhong Cách:\n\nThanh Lịch và Nam Tính: Mẫu áo này mang lại vẻ ngoài thanh lịch và nam tính, phù hợp với nhiều hoàn cảnh khác nhau.\n\nĐa Dụng: Dễ dàng phối hợp với quần âu, quần jeans hoặc quần kaki, mang lại nhiều phong cách từ năng động đến lịch sự.\n\nGiá bán: 300k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "a7919b98-7dbf-4102-aebf-f41bf6704684",
+  "parentId": "5b2db0c5-836d-4451-8d56-0bba829d7ddd",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonam - hoiquannam - hoiquansooc - quansoocxam",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonam-hoiquannam-hoiquansooc-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonam-custom.iquanao-hoidonam-hoiquannam-custom-2.iquanao-hoidonam-hoiquannam-hoiquansooc-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9d5e782b-8383-41a9-8069-d0fe00b343e7",
+          "name": "equansoocmauxam",
+          "required": false,
+          "dataType": "@equansoocmauxam",
+          "value": "$equansoocmauxam",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "height": "15px",
+                  "rawUrl": "https://salt.tikicdn.com/ts/product/b5/49/3b/cc20a1095b2773b43ee99db2f1af3b61.jpg",
+                  "accessibilityText": "image",
+                  "width": "20px"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Quần Soóc Nam Màu Xám\n\nMô tả Sản phẩm:\n\nChiếc quần soóc nam màu xám này là sự lựa chọn hoàn hảo cho những ngày hè năng động và thoải mái. Với thiết kế hiện đại và chất liệu thoáng mát, bạn sẽ luôn tự tin và dễ chịu trong mọi hoạt động hàng ngày.\n\nChất liệu cao cấp: Được làm từ vải cotton pha polyester, chiếc quần này giúp bạn cảm thấy mát mẻ và thoải mái, kể cả trong những ngày nắng nóng.\n\nThiết kế tiện lợi: Với kiểu dáng đơn giản nhưng không kém phần phong cách, chiếc quần soóc này mang lại vẻ ngoài trẻ trung và năng động.\n\nMàu xám trung tính: Màu xám trung tính dễ dàng kết hợp với nhiều loại áo và phụ kiện, từ áo thun đơn giản đến áo polo lịch sự.\n\nPhù hợp nhiều dịp: Chiếc quần này lý tưởng cho các hoạt động ngoài trời, dạo phố, thể dục thể thao, hay thậm chí là những buổi gặp gỡ bạn bè không chính thức.\n\nDễ bảo quản: Chất liệu bền bỉ và dễ giặt giũ, giữ cho chiếc quần luôn như mới dù đã qua nhiều lần sử dụng.\n\nGiá bán: 350k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

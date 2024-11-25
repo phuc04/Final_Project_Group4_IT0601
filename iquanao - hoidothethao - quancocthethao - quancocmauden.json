@@ -1,0 +1,74 @@
+{
+  "id": "a7d76bbd-86e5-4f5b-b271-99f97379528e",
+  "parentId": "e708e2b7-3c5d-48fd-9a9d-6d38bbbd9aef",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidothethao - quancocthethao - quancocmauden",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidothethao-quancocthethao-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidothethao-custom.iquanao-hoidothethao-quancocthethao-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4eebe3c8-7cdb-4be3-9fbc-1286a482c03a",
+          "name": "equancocmauden",
+          "required": false,
+          "dataType": "@equancocmauden",
+          "value": "$equancocmauden",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "accessibilityText": "image",
+                  "type": "image",
+                  "width": "20px",
+                  "rawUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSLJ_ZyVNvmMxZV0-Ctha6O2_r-3eUqC2uGecz5safunP6l_qXE-9eGpwD37e2GnI0A-fs\u0026usqp\u003dCAU",
+                  "height": "15px"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Quần Cộc Thể Thao Màu Đen Cho Nam \u0026 Nữ (Puma)\nChất Liệu:\n\nPolyester Cao Cấp: Quần được làm từ chất liệu polyester cao cấp, mang lại sự thoải mái và độ bền cao. Chất liệu này giúp quần thấm hút mồ hôi tốt, giữ cho cơ thể luôn khô ráo và thoáng mát trong suốt quá trình tập luyện.\n\nThiết Kế:\n\nMàu Đen Tinh Tế: Màu đen sáng và tinh tế, mang lại vẻ ngoài thanh lịch và hiện đại.\n\nKiểu Dáng Slim Fit: Thiết kế ôm vừa vặn, tôn lên dáng người nhưng vẫn đảm bảo sự thoải mái khi vận động.\n\nDây Rút Điều Chỉnh: Lưng quần có dây rút co giãn, giúp dễ dàng điều chỉnh kích cỡ, mang lại sự tiện lợi và phù hợp cho nhiều dáng người.\n\nLogo Puma: Logo của Puma được in nổi bật trên quần, tạo điểm nhấn thương hiệu và phong cách thể thao đặc trưng.\n\nGiá bán: 300k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

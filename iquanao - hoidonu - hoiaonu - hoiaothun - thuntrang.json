@@ -1,0 +1,74 @@
+{
+  "id": "4f35394e-d810-4cf5-af03-3ddb206d719d",
+  "parentId": "ef03fbfb-c247-48cb-b190-9ba6bb8569bf",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonu - hoiaonu - hoiaothun - thuntrang",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonu-hoiaonu-hoiaothun-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonu-custom.iquanao-hoidonu-hoiaonu-custom.iquanao-hoidonu-hoiaonu-hoiaothun-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f390891b-bf0c-492f-8050-b3f7fdf53932",
+          "name": "ethuntrang",
+          "required": false,
+          "dataType": "@ethuntrang",
+          "value": "$ethuntrang",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "height": "15px",
+                  "width": "20px",
+                  "rawUrl": "https://megafashion.vn/data/product/sqt1715671392.JPG",
+                  "accessibilityText": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Áo thun nữ trắng là một món đồ cơ bản nhưng không thể thiếu trong tủ quần áo của mọi cô gái. Với thiết kế đơn giản nhưng tinh tế, chiếc áo này mang đến vẻ ngoài trẻ trung và năng động.\n\nChi Tiết Sản Phẩm:\nMàu sắc: Trắng tinh khôi, dễ dàng phối hợp với nhiều loại trang phục và phụ kiện khác nhau.\n\nChất liệu: Thường được làm từ cotton hoặc vải thun cao cấp, mềm mại, thoáng mát, và thấm hút mồ hôi tốt.\n\nThiết kế:\n\nPhong cách tối giản với đường may tỉ mỉ, không có nhiều chi tiết phức tạp, giúp tôn lên vẻ đẹp tự nhiên.\n\nForm dáng vừa vặn, ôm sát cơ thể nhưng vẫn thoải mái khi mặc.\n\nCổ áo tròn hoặc cổ chữ V tùy theo sở thích cá nhân.\n\nTính Năng Nổi Bật:\nThoáng mát và dễ chịu: Chất liệu vải thun mềm mại giúp bạn cảm thấy thoải mái suốt cả ngày.\n\nDễ phối đồ: Màu trắng cơ bản dễ dàng kết hợp với mọi loại trang phục, từ quần jeans, chân váy, đến quần short.\n\nDễ chăm sóc: Chất liệu bền, không dễ xù lông hay co rút sau khi giặt.\n\nPhù Hợp Với:\nĐi làm: Kết hợp với quần âu và áo khoác ngoài để tạo nên vẻ ngoài chuyên nghiệp.\n\nDạo phố: Phối cùng quần jeans hoặc chân váy để có một set đồ năng động và thoải mái.\n\nThể thao: Dễ dàng mặc khi tập luyện nhờ vào tính năng thấm hút mồ hôi và co giãn tốt.\n\nÁo thun nữ trắng là sự lựa chọn hoàn hảo cho mọi hoàn cảnh, từ đi làm, dạo phố đến tập luyện thể thao. Chiếc áo này không chỉ mang lại sự thoải mái mà còn giúp bạn luôn tự tin và nổi bật. 😊\n\nGiá bán: 250k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

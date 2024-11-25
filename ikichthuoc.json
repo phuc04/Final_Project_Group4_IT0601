@@ -1,0 +1,55 @@
+{
+  "id": "7e7668d0-fa94-4bf4-b1ba-141f8ebea3dc",
+  "name": "ikichthuoc",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ikichthuoc-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d2cdcfa9-34c5-4130-a84d-5737a06d6812",
+          "name": "ekichthuoc",
+          "required": false,
+          "dataType": "@ekichthuoc",
+          "value": "$ekichthuoc",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Bạn có muốn hỏi về kích thước quần hay áo cho nam, nữ hay trẻ em không? Mình có thể cung cấp thông tin chi tiết về kích cỡ theo từng loại và đối tượng nhé! 😊\n\nKích thước quần áo người lớn\n\nKích thước quần áo cho trẻ em\n\nHãy cho mình biết yêu cầu cụ thể của bạn để mình có thể hỗ trợ tốt nhất nhé! 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

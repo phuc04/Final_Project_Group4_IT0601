@@ -1,0 +1,74 @@
+{
+  "id": "1bf0cf05-a3ff-4898-9339-47ee99bd2bac",
+  "parentId": "d1e1ecd4-47fe-42b2-860c-fc0da7c3bf64",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidothethao - vaythethao",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidothethao-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidothethao-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "19794c47-c102-4c2d-8ecb-41888e8652bd",
+          "name": "evaythethao",
+          "required": false,
+          "dataType": "@evaythethao",
+          "value": "$evaythethao",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "rawUrl": "https://my-live-02.slatic.net/p/44c2b371ee2cec3779f3a1cb67a9d126.jpg",
+                  "type": "image",
+                  "height": "15px",
+                  "width": "20px",
+                  "accessibilityText": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Váy Thể Thao Nữ\n\nMô tả Sản phẩm:\n\nChiếc váy thể thao nữ này là sự kết hợp hoàn hảo giữa phong cách thời trang và sự thoải mái. Với thiết kế năng động và chất liệu cao cấp, chiếc váy này sẽ giúp bạn tỏa sáng trong mọi hoạt động thể thao và hàng ngày.\n\nChất liệu thoải mái: Được làm từ vải polyester co giãn và thoáng khí, chiếc váy này mang lại sự dễ chịu và thoáng mát cho người mặc, giúp bạn tự tin vận động.\n\nThiết kế thể thao: Kiểu dáng trẻ trung, ôm sát vừa phải, tôn lên vóc dáng mà vẫn đảm bảo sự thoải mái khi di chuyển.\n\nPhù hợp nhiều hoạt động: Chiếc váy này lý tưởng cho các hoạt động thể thao như chơi tennis, golf, chạy bộ, hoặc thậm chí là dạo phố và các hoạt động thường ngày.\n\nDễ bảo quản: Chất liệu bền bỉ, dễ giặt giũ và nhanh khô, giữ cho chiếc váy luôn như mới sau nhiều lần sử dụng.\n\nMàu sắc và họa tiết đa dạng: Màu sắc tươi sáng và họa tiết năng động, dễ dàng kết hợp với nhiều phụ kiện thể thao khác.\n\nGiá bán: 300k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

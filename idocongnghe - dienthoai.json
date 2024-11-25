@@ -1,0 +1,59 @@
+{
+  "id": "487b32b8-8284-4914-9bfd-061da4071e59",
+  "parentId": "7dd3bc4c-92e4-440b-a2b5-8c1380651249",
+  "rootParentId": "7dd3bc4c-92e4-440b-a2b5-8c1380651249",
+  "name": "idocongnghe - dienthoai",
+  "auto": true,
+  "contexts": [
+    "idocongnghe-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "idocongnghe.idocongnghe-custom",
+      "affectedContexts": [
+        {
+          "name": "idocongnghe-dienthoai-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "be0ad1a8-f1f0-4670-93eb-fcec356a350b",
+          "name": "edienthoai",
+          "required": false,
+          "dataType": "@edienthoai",
+          "value": "$edienthoai",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop hiện có sẵn 2 hãng điện thoại là iPhone và Samsung. Bạn muốn mình tư vấn sản phẩm nào ạ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

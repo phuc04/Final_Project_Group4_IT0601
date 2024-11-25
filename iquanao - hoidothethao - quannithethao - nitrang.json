@@ -1,0 +1,74 @@
+{
+  "id": "1a3a0860-74b2-4c96-9581-852972383a23",
+  "parentId": "7aa61421-fa87-4cc9-9dcf-8cb00dba6d42",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidothethao - quannithethao - nitrang",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidothethao-quannithethao-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidothethao-custom.iquanao-hoidothethao-quannithethao-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "62c521dd-46b5-43ed-a4d8-5f79f4155e61",
+          "name": "enitrang",
+          "required": false,
+          "dataType": "@enitrang",
+          "value": "$enitrang",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "accessibilityText": "image",
+                  "width": "20px",
+                  "height": "15px",
+                  "rawUrl": "https://product.hstatic.net/200000025394/product/quan_adidas_z.n.e._moi_trang_jf2449_01_laydown_9b4f0cb9f18a4210a04f6b5a04079b3d_master.jpg"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Quần Nỉ Thể Thao Nam Màu Trắng (Adidas)\nChất Liệu:\n\nPolyester Cao Cấp: Quần được làm từ chất liệu polyester cao cấp, mang lại sự thoải mái và độ bền cao. Chất liệu này giúp quần thấm hút mồ hôi tốt, giữ cho cơ thể luôn khô ráo và thoáng mát trong suốt quá trình tập luyện.\n\nThiết Kế:\n\nMàu Trắng Tinh Tế: Màu trắng sáng và tinh tế, mang lại vẻ ngoài thanh lịch và hiện đại.\n\nKiểu Dáng Slim Fit: Thiết kế ôm vừa vặn, tôn lên dáng người nhưng vẫn đảm bảo sự thoải mái khi vận động.\n\nDây Rút Điều Chỉnh: Lưng quần có dây rút co giãn, giúp dễ dàng điều chỉnh kích cỡ, mang lại sự tiện lợi và phù hợp cho nhiều dáng người.\n\nLogo Adidas: Logo của Adidas được in nổi bật trên quần, tạo điểm nhấn thương hiệu và phong cách thể thao đặc trưng.\nGiá bán: 350k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

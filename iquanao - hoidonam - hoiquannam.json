@@ -1,0 +1,59 @@
+{
+  "id": "43f30c24-5b9d-470e-a9f8-a0615b43b5ce",
+  "parentId": "12e36d16-bf65-4d93-9d6d-6ea41186891a",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonam - hoiquannam",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonam-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonam-custom",
+      "affectedContexts": [
+        {
+          "name": "iquanao-hoidonam-hoiquannam-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "705174d2-0528-433c-9172-b68dce8325c2",
+          "name": "ehoiquannam",
+          "required": false,
+          "dataType": "@ehoiquannam",
+          "value": "$ehoiquannam",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop có sẵn 2 loại quần vải và quần soóc. Bạn muốn mình tư vẫn mẫu nào ạ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

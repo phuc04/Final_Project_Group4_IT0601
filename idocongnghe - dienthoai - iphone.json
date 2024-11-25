@@ -1,0 +1,44 @@
+{
+  "id": "0466e415-b9ce-4ba3-a174-d27cc5299668",
+  "parentId": "487b32b8-8284-4914-9bfd-061da4071e59",
+  "rootParentId": "7dd3bc4c-92e4-440b-a2b5-8c1380651249",
+  "name": "idocongnghe - dienthoai - iphone",
+  "auto": true,
+  "contexts": [
+    "idocongnghe-dienthoai-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "idocongnghe.idocongnghe-custom.idocongnghe-dienthoai-custom-2",
+      "affectedContexts": [
+        {
+          "name": "idocongnghe-dienthoai-iphone-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop hiện có 2 mẫu iPhone là iPhone15 Promax và iPhone 16 Promax. Bạn muốn mình tư vấn mẫu sản phẩm nào ạ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

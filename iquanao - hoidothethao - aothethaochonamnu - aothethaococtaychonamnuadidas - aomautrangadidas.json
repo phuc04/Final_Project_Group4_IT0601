@@ -1,0 +1,74 @@
+{
+  "id": "7382d6ce-00b8-4a28-ab53-086fc0fe367d",
+  "parentId": "5a28de21-fb51-4358-ab08-d5933bac1401",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidothethao - aothethaochonamnu - aothethaococtaychonamnuadidas - aomautrangadidas",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidothethao-aothethaochonamvanu-aothethaococtaychonamnuadidas-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidothethao-custom-2.iquanao-hoidothethao-aothethaochonamvanu-custom.iquanao-hoidothethao-aothethaochonamvanu-aothethaococtaychonamnuadidas-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1d3465df-c8af-4630-9fd8-a10843f6c69d",
+          "name": "eaothethaococtaymautrangadidas",
+          "required": false,
+          "dataType": "@eaothethaococtaymautrangadidas",
+          "value": "$eaothethaococtaymautrangadidas",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "width": "20px",
+                  "rawUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d25af79849e64c37bf7eac630101dd00_9366/Ao_Thun_3_Soc_Essentials_trang_GL3733_01_laydown.jpg",
+                  "height": "15px",
+                  "accessibilityText": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Áo Thể Thao Màu Trắng (Adidas)\n\nMô tả Sản phẩm:\n\nChiếc áo thể thao màu trắng của Adidas là sự kết hợp hoàn hảo giữa phong cách và hiệu suất. Với chất liệu cao cấp và thiết kế tiện dụng, chiếc áo này sẽ giúp bạn tự tin trong mọi hoạt động thể thao và hàng ngày.\n\nChất liệu thoải mái: Được làm từ vải polyester co giãn và thoáng khí, chiếc áo này mang lại sự dễ chịu và thoáng mát cho người mặc, giúp bạn tự tin vận động.\n\nThiết kế thể thao: Kiểu dáng trẻ trung, ôm sát vừa phải, tôn lên vóc dáng mà vẫn đảm bảo sự thoải mái khi di chuyển.\n\nPhù hợp nhiều hoạt động: Chiếc áo này lý tưởng cho các hoạt động thể thao như chơi tennis, golf, chạy bộ, hoặc thậm chí là dạo phố và các hoạt động thường ngày.\n\nDễ bảo quản: Chất liệu bền bỉ, dễ giặt giũ và nhanh khô, giúp giữ cho chiếc áo luôn như mới sau nhiều lần sử dụng.\n\nMàu sắc và họa tiết đa dạng: Màu trắng tinh khôi và họa tiết năng động, dễ dàng kết hợp với nhiều phụ kiện thể thao khác.\n\nGiá bán: 400k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

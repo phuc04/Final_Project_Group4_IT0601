@@ -1,0 +1,59 @@
+{
+  "id": "82cf895d-bfdd-4e7e-b671-cda93388f190",
+  "parentId": "5bc0d923-31d9-417d-bb82-0698d8cb46c2",
+  "rootParentId": "5bc0d923-31d9-417d-bb82-0698d8cb46c2",
+  "name": "iphukien - giay",
+  "auto": true,
+  "contexts": [
+    "iphukien-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iphukien.iphukien-custom",
+      "affectedContexts": [
+        {
+          "name": "iphukien-giay-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1efb3470-32f3-4573-a797-371c333dcba7",
+          "name": "egiay",
+          "required": false,
+          "dataType": "@egiay",
+          "value": "$egiay",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop hiện có sẵn giày với hai màu đen và trắng. Bạn muốn mình tư vấn mẫu nào ạ? 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "8ad7844c-c9a3-40cf-ae42-bc0ba7497f35",
+  "parentId": "09bdccf1-645a-483e-97a9-dc312faef66d",
+  "rootParentId": "5bc0d923-31d9-417d-bb82-0698d8cb46c2",
+  "name": "iphukien - tuixach - tuitrang",
+  "auto": true,
+  "contexts": [
+    "iphukien-tuixach-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iphukien.iphukien-custom.iphukien-tuixach-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "235563a1-a9b6-4df8-9a7a-3e3d0655685e",
+          "name": "etuitrang",
+          "required": false,
+          "dataType": "@etuitrang",
+          "value": "$etuitrang",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "width": "20px",
+                  "type": "image",
+                  "accessibilityText": "image",
+                  "rawUrl": "https://www.vascara.com/uploads/cms_productmedia/2023/December/31/tui-deo-vai-nap-gap-nhan-son-vien---tot-0155---mau-xam-nhat__73588__1704035169-medium.jpeg",
+                  "height": "15px"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Túi Xách Màu Trắng\nChất Liệu:\n\nDa Cao Cấp: Chất liệu da mềm mại, bền bỉ và chống trầy xước, giúp túi luôn giữ được vẻ ngoài hoàn hảo qua thời gian.\n\nVải Lót Bên Trong: Sử dụng vải lót cao cấp, mịn màng và bền chắc, bảo vệ các vật dụng bên trong khỏi trầy xước và hư hại.\n\nThiết Kế:\n\nKiểu Dáng Hiện Đại: Túi xách màu trắng với thiết kế tinh tế, hiện đại, dễ dàng kết hợp với nhiều loại trang phục.\n\nKích Thước Vừa Phải: Kích thước túi vừa phải, đủ để chứa các vật dụng cần thiết như điện thoại, ví, son môi và chìa khóa.\n\nChi Tiết Tỉ Mỉ: Các chi tiết khóa kéo, móc và đường chỉ may đều được làm cẩn thận, tỉ mỉ, tăng thêm sự sang trọng và đẳng cấp cho túi. \n\nGiá bán: 750k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

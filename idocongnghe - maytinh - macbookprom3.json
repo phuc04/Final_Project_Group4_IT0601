@@ -1,0 +1,74 @@
+{
+  "id": "32f66a5d-2b71-44f5-8c62-2eb2da478381",
+  "parentId": "b75c338f-e88b-4bb1-975b-0c4c27c7c536",
+  "rootParentId": "7dd3bc4c-92e4-440b-a2b5-8c1380651249",
+  "name": "idocongnghe - maytinh - macbookprom3",
+  "auto": true,
+  "contexts": [
+    "idocongnghe-maytinh-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "idocongnghe.idocongnghe-custom.idocongnghe-maytinh-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d2b294a1-7998-4bf3-b97f-03d9e8e0fd2b",
+          "name": "emacbookprom3",
+          "required": false,
+          "dataType": "@emacbookprom3",
+          "value": "$emacbookprom3",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "width": "20px",
+                  "height": "15px",
+                  "rawUrl": "https://bizweb.dktcdn.net/thumb/large/100/318/659/products/mbp14-spacegray-gallery1-202310-copy-da335fb1-0a27-40bf-8205-5da4996ef6b4.jpg?v\u003d1708663740430",
+                  "accessibilityText": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "MacBook Pro M3 (2023) là phiên bản nâng cấp mới nhất từ Apple, được trang bị chip M3 mạnh mẽ, cải thiện hiệu năng và hiệu suất đồ họa. Với thiết kế tinh tế và thời lượng pin vượt trội, MacBook Pro M3 là sự lựa chọn hoàn hảo cho người dùng chuyên nghiệp và sáng tạo nội dung.\n\nThiết Kế:\nChất liệu: Vỏ nhôm nguyên khối, bền bỉ và cao cấp, thân thiện với môi trường với chất liệu tái chế.\nKích thước: Mỏng nhẹ, dễ mang theo nhưng vẫn giữ được độ cứng cáp.\nMàu sắc: Các tùy chọn màu sắc hiện đại như Silver, Space Gray, và Midnight (đen xanh độc quyền).\nLogo phát sáng: Thiết kế tinh tế, tạo điểm nhấn độc đáo.\n\nMàn Hình:\nKích thước: Tùy chọn 14 inch và 16 inch.\nCông nghệ: Liquid Retina XDR, mang lại độ sáng, độ tương phản và màu sắc vượt trội.\nĐộ phân giải: 3024 x 1964 pixel (14 inch) và 3456 x 2234 pixel (16 inch).\nTần số quét: ProMotion 120Hz, hiển thị mượt mà và chính xác.\nĐộ sáng: Lên đến 1.600 nits, tối ưu cho làm việc trong mọi điều kiện ánh sáng.\nTrue Tone: Điều chỉnh màu sắc màn hình theo môi trường xung quanh để bảo vệ mắt.\n\nHiệu Năng:\nChip xử lý:\nChip Apple Silicon M3 với tiến trình 3nm, cải thiện đáng kể hiệu năng CPU và GPU.\nHỗ trợ Neural Engine thế hệ mới, tăng tốc các tác vụ trí tuệ nhân tạo.\n\nBộ nhớ:\nRAM: Tùy chọn từ 16GB, 32GB đến 64GB (LPDDR5X).\nSSD: Tùy chọn từ 512GB, 1TB, 2TB, 4TB đến 8TB, hỗ trợ tốc độ đọc/ghi siêu nhanh.\n\nHiệu suất:\nHiệu năng CPU nhanh hơn tới 15% so với M2.\nGPU tăng 30% hiệu suất, lý tưởng cho các tác vụ đồ họa nặng như chỉnh sửa video 8K hoặc thiết kế 3D.\n\nHệ Điều Hành:\nmacOS Sonoma:\nGiao diện trực quan, tích hợp nhiều tính năng tối ưu cho công việc và giải trí.\nHỗ trợ tốt các ứng dụng chuyên nghiệp như Final Cut Pro, Logic Pro, và Adobe Creative Cloud.\n\nKết Nối:\nCổng kết nối:\n3 cổng Thunderbolt 4 (USB-C) hỗ trợ truyền dữ liệu tốc độ cao và kết nối màn hình ngoài.\nCổng HDMI nâng cấp hỗ trợ độ phân giải 8K.\nCổng SDXC card cho các nhà sáng tạo nội dung.\nJack cắm tai nghe 3.5mm với hỗ trợ âm thanh Hi-Res.\nWi-Fi: Wi-Fi 6E tốc độ cao, độ trễ thấp.\nBluetooth: Bluetooth 5.3.\n\nCamera và Âm Thanh:\nCamera: 1080p FaceTime HD với khả năng xử lý ánh sáng yếu tốt hơn và tính năng Center Stage.\nMicro: Hệ thống micro chất lượng phòng thu, giảm tiếng ồn tối ưu.\nLoa: Hệ thống 6 loa với âm thanh Spatial Audio và Dolby Atmos, mang lại trải nghiệm nghe sống động.\n\nPin và Sạc:\nThời lượng pin:\nLên đến 22 giờ xem video hoặc 15 giờ duyệt web.\n\nSạc nhanh:\nSạc 50% pin trong khoảng 30 phút với bộ sạc MagSafe 3.\nHỗ trợ sạc qua cổng USB-C.\n\nTính Năng Nổi Bật:\nBàn phím: Magic Keyboard với đèn nền và cơ chế cắt kéo, mang lại cảm giác gõ thoải mái.\nTrackpad: Force Touch lớn, hỗ trợ cử chỉ chính xác.\n\nBảo mật:\nTouch ID tích hợp trên nút nguồn.\nChip T2 bảo mật dữ liệu người dùng.\n\nMacBook Pro M3 (2023) là sự kết hợp hoàn hảo giữa hiệu năng đỉnh cao, thiết kế đẹp mắt và các tính năng hiện đại. Đây là công cụ không thể thiếu cho các nhà sáng tạo nội dung, lập trình viên, và những người yêu cầu hiệu suất làm việc chuyên nghiệp.\n\nGiá bán: 38,000,000 vnđ"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

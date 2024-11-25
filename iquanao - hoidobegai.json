@@ -1,0 +1,59 @@
+{
+  "id": "7d2cc683-306c-46f0-ad49-206a55598df7",
+  "parentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidobegai",
+  "auto": true,
+  "contexts": [
+    "iquanao-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom",
+      "affectedContexts": [
+        {
+          "name": "iquanao-hoidobegai-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "22c077a9-590d-4e52-b414-1fc08081d696",
+          "name": "ehoidobegai",
+          "required": false,
+          "dataType": "@ehoidobegai",
+          "value": "$ehoidobegai",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop có sẵn mẫu bộ váy yếm \u0026 áo thun màu nâu,  bộ áo phông \u0026 quần ống và bộ quần áo bà ba, nông dân túi caro dành cho bé gái. Bạn muốn mình tư vấn mẫu nào nhỉ? 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

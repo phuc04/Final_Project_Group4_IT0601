@@ -1,0 +1,59 @@
+{
+  "id": "89bb363b-31de-4488-b9d8-97d1047c05a6",
+  "parentId": "5bc0d923-31d9-417d-bb82-0698d8cb46c2",
+  "rootParentId": "5bc0d923-31d9-417d-bb82-0698d8cb46c2",
+  "name": "iphukien - khuyentai",
+  "auto": true,
+  "contexts": [
+    "iphukien-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iphukien.iphukien-custom",
+      "affectedContexts": [
+        {
+          "name": "iphukien-khuyentai-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b1d6674d-6eda-4d4e-be40-c93437fc510d",
+          "name": "ekhuyentai",
+          "required": false,
+          "dataType": "@ekhuyentai",
+          "value": "$ekhuyentai",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop hiện có sẵn khuyên tai với khuyên tai vàng và khuyên tai bạc. Bạn muốn mình tư vấn mẫu nào ạ? 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "5bc0d923-31d9-417d-bb82-0698d8cb46c2",
+  "name": "iphukien",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "iphukien-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "183be7da-9d6d-4e94-8f78-451f4e139abb",
+          "name": "ephukien",
+          "required": false,
+          "dataType": "@ephukien",
+          "value": "$ephukien",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop hiện có nhưng món phụ kiện bao gồm: túi xách, mũ, giày và khuyên tai. Bạn muốn mình tư vẫn mẫu nào ạ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

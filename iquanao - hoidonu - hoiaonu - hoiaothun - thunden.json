@@ -1,0 +1,73 @@
+{
+  "id": "6d6638f9-2cf4-4d44-87f8-77ba0b3b2243",
+  "parentId": "ef03fbfb-c247-48cb-b190-9ba6bb8569bf",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonu - hoiaonu - hoiaothun - thunden",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonu-hoiaonu-hoiaothun-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonu-custom.iquanao-hoidonu-hoiaonu-custom.iquanao-hoidonu-hoiaonu-hoiaothun-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "50fb2e38-8779-4ddf-b316-11330c6a062c",
+          "name": "ethunden",
+          "required": false,
+          "dataType": "@ethunden",
+          "value": "$ethunden",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "rawUrl": "https://megafashion.vn/data/product/nnb1715671377.JPG",
+                  "height": "15px",
+                  "type": "image",
+                  "width": "20px"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Áo thun nữ đen là một trang phục cơ bản nhưng không kém phần thời trang, dễ dàng kết hợp với nhiều loại trang phục và phụ kiện khác nhau, mang lại vẻ ngoài mạnh mẽ, thanh lịch và hiện đại.\n\nChi Tiết Sản Phẩm:\nMàu sắc: Đen cổ điển, phù hợp với mọi phong cách và dễ dàng phối đồ.\n\nChất liệu: Thường được làm từ cotton hoặc vải thun cao cấp, mềm mại và thoáng mát, có khả năng thấm hút mồ hôi tốt.\n\nThiết kế:\n\nPhong cách tối giản với các đường may tỉ mỉ, tạo nên vẻ đẹp tinh tế và thời trang.\n\nForm dáng ôm sát cơ thể nhưng vẫn đảm bảo sự thoải mái khi mặc.\n\nCó các kiểu cổ tròn hoặc cổ chữ V để lựa chọn, tùy thuộc vào sở thích cá nhân.\n\nTính Năng Nổi Bật:\nThoáng mát và dễ chịu: Chất liệu vải thun mềm mại giúp bạn cảm thấy thoải mái suốt cả ngày.\n\nDễ phối đồ: Màu đen cơ bản dễ dàng kết hợp với nhiều loại trang phục khác, từ quần jeans, chân váy, đến quần short.\n\nDễ chăm sóc: Chất liệu bền, không dễ bị nhăn hay co rút sau khi giặt.\n\nPhù Hợp Với:\nĐi làm: Kết hợp với quần âu và áo khoác ngoài để tạo nên vẻ ngoài chuyên nghiệp và thanh lịch.\n\nDạo phố: Phối cùng quần jeans hoặc chân váy để có một set đồ năng động và thoải mái.\n\nThể thao: Dễ dàng mặc khi tập luyện nhờ vào tính năng thấm hút mồ hôi và co giãn tốt.\n\nDự tiệc: Phối cùng phụ kiện nổi bật để tạo nên phong cách cuốn hút và sang trọng.\n\nÁo thun nữ đen là lựa chọn hoàn hảo cho mọi hoàn cảnh, từ đi làm, dạo phố đến tập luyện thể thao. Chiếc áo này không chỉ mang lại sự thoải mái mà còn giúp bạn luôn tự tin và nổi bật. 😊\n\nGiá bán: 250k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

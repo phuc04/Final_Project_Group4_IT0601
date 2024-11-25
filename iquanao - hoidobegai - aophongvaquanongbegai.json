@@ -1,0 +1,74 @@
+{
+  "id": "72f31f3d-8b57-4042-93f7-c2a4de0a27ce",
+  "parentId": "7d2cc683-306c-46f0-ad49-206a55598df7",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidobegai - aophongvaquanongbegai",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidobegai-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidobegai-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5aab386e-61fb-4c30-aa8f-caf7d811a55c",
+          "name": "eaophongvaquanongbegai",
+          "required": false,
+          "dataType": "@eaophongvaquanongbegai",
+          "value": "$eaophongvaquanongbegai",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "rawUrl": "https://bqn.1cdn.vn/2022/10/03/images.baoquangnam.vn-storage-newsportal-2022-10-3-132829-_d2.png",
+                  "type": "image",
+                  "width": "20px",
+                  "height": "15px",
+                  "accessibilityText": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Bộ Áo Phông và Quần Dài Bé Gái\nChất Liệu:\n\nÁo Phông: Làm từ chất liệu cotton mềm mại, thoáng mát và thấm hút mồ hôi tốt, giúp bé luôn cảm thấy thoải mái suốt cả ngày.\n\nQuần Dài: Chất liệu jeans hoặc kaki, mang lại sự bền bỉ và dễ dàng vận động.\n\nThiết Kế:\n\nÁo Phông: Thiết kế cổ tròn, tay ngắn hoặc dài, dễ dàng mặc vào và tháo ra. Họa tiết in trên áo tươi sáng và ngộ nghĩnh, phù hợp với sở thích của bé gái.\n\nQuần Dài: Kiểu dáng slim fit hoặc regular fit, vừa vặn nhưng không quá ôm sát, tạo cảm giác thoải mái khi mặc. Quần có thể có các chi tiết như túi, khóa kéo hoặc dây buộc.\n\nTính Năng Nổi Bật:\n\nThoáng Mát: Chất liệu cotton của áo phông giúp thoáng khí, không gây bí bách cho bé khi mặc lâu.\n\nCo Giãn Nhẹ: Độ co giãn nhẹ của quần dài giúp bé dễ dàng vận động và chơi đùa.\n\nĐa Năng: Bộ trang phục này phù hợp cho nhiều hoạt động từ đi học, dạo chơi đến tham gia các hoạt động thể thao.\n\nPhong Cách:\n\nNăng Động và Trẻ Trung: Bộ áo phông và quần dài mang lại vẻ ngoài năng động, trẻ trung cho bé gái, phù hợp với nhiều hoàn cảnh.\n\nĐa Dụng: Dễ dàng kết hợp với giày thể thao, dép hay các phụ kiện khác để tạo nên phong cách riêng biệt. \n\nGiá bán: 250k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

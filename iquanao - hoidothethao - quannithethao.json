@@ -1,0 +1,59 @@
+{
+  "id": "7aa61421-fa87-4cc9-9dcf-8cb00dba6d42",
+  "parentId": "d1e1ecd4-47fe-42b2-860c-fc0da7c3bf64",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidothethao - quannithethao",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidothethao-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidothethao-custom",
+      "affectedContexts": [
+        {
+          "name": "iquanao-hoidothethao-quannithethao-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "408afcc8-11cf-4ded-a618-9daa156f0604",
+          "name": "equannithethao",
+          "required": false,
+          "dataType": "@equannithethao",
+          "value": "$equannithethao",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop có sẵn mầu quần nỉ thể thao cho nam và nữ với 2 màu: trắng và vàng. Bạn muốn mình tư vấn mẫu nào ạ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

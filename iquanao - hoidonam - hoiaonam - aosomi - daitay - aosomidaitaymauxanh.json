@@ -1,0 +1,74 @@
+{
+  "id": "7097fadb-3911-4f69-b6cb-3e3ef87b587c",
+  "parentId": "de8f2b4b-a514-4590-936e-74f2f9df0b5d",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonam - hoiaonam - aosomi - daitay - aosomidaitaymauxanh",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonam-hoiaonam-aosomi-daitay-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonam-custom.iquanao-hoidonam-hoiaonam-custom-3.iquanao-hoidonam-hoiaonam-aosomi-custom.iquanao-hoidonam-hoiaonam-aosomi-daitay-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "89a91e2d-e0be-466c-b352-c69cda793ac2",
+          "name": "eaosomidaitaymauxanh",
+          "required": false,
+          "dataType": "@eaosomidaitaymauxanh",
+          "value": "$eaosomidaitaymauxanh",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "accessibilityText": "image",
+                  "height": "15px",
+                  "type": "image",
+                  "width": "20px",
+                  "rawUrl": "https://product.hstatic.net/200000574651/product/gls0352-1_lb-50_b42470cc02704dea87ce594960fb6583_master.jpg"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Áo Sơ Mi Nam Dài Tay Màu Xanh\nChất Liệu:\n\nCotton Cao Cấp: Chất liệu cotton mềm mại, thoáng mát, có khả năng thấm hút mồ hôi tốt, giúp bạn luôn cảm thấy thoải mái suốt cả ngày.\n\nThiết Kế:\n\nMàu Xanh Thanh Lịch: Màu xanh dịu dàng và tinh tế, dễ dàng phối hợp với nhiều loại trang phục khác nhau.\n\nKiểu Dáng Regular Fit: Thiết kế vừa vặn, phù hợp với mọi dáng người, mang lại vẻ ngoài lịch lãm và nam tính.\n\nCổ Bẻ Cổ Điển: Thiết kế cổ bẻ cổ điển, dễ dàng kết hợp với cà vạt cho những dịp trang trọng hoặc mặc không để tạo phong cách thoải mái.\n\nTính Năng Nổi Bật:\n\nThoáng Khí: Chất liệu và thiết kế giày giúp đôi chân luôn thoáng mát, không gây hầm bí ngay cả khi mang suốt ngày dài.\n\nDễ Phối Đồ: Màu xanh trung tính giúp bạn dễ dàng kết hợp với nhiều trang phục khác nhau, từ quần jeans, quần tây đến váy liền.\n\nThoải Mái: Thiết kế đế giày êm ái, hỗ trợ tốt cho bàn chân, giúp bạn cảm thấy thoải mái khi di chuyển.\n\nChống Nhăn: Áo có khả năng chống nhăn tốt, giúp bạn luôn tự tin với vẻ ngoài gọn gàng và lịch sự.\n\nPhong Cách:\n\nThanh Lịch và Nam Tính: Mẫu áo này mang lại vẻ ngoài thanh lịch và nam tính, phù hợp với nhiều hoàn cảnh khác nhau.\n\nĐa Dụng: Dễ dàng phối hợp với quần âu, quần jeans hoặc quần kaki, mang lại nhiều phong cách từ năng động đến lịch sự.\n\nGiá bán: 400k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

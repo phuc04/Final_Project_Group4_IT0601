@@ -1,0 +1,74 @@
+{
+  "id": "237ee382-b623-4689-8bfc-e43f4ce3412e",
+  "parentId": "b47b4be0-4f49-4ea3-8103-ca59633ff0ba",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonu - hoivaynu - chanvayhoavandai",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonu-hoivaynu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonu-custom.iquanao-hoidonu-hoivaynu-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5215e1bf-7126-43e8-a3ad-cde4d0b458bf",
+          "name": "echanvayhoavandai",
+          "required": false,
+          "dataType": "@echanvayhoavandai",
+          "value": "$echanvayhoavandai",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "rawUrl": "https://demo.bosathemes.com/bosa/shopkeeper/wp-content/uploads/sites/15/2020/10/bosa-shop-product11.jpg",
+                  "accessibilityText": "image",
+                  "width": "20px",
+                  "height": "15px"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Chân Váy Hoa Văn Màu Đen\n\nMô tả Sản phẩm:\n\nChiếc chân váy hoa văn màu đen này là sự lựa chọn tuyệt vời cho những ai yêu thích phong cách thanh lịch và tinh tế. Với thiết kế hoa văn độc đáo và chất liệu cao cấp, chiếc váy này sẽ làm nổi bật vẻ đẹp và sự quyến rũ của bạn.\n\nChất liệu cao cấp: Được làm từ vải lụa mềm mại và thoáng mát, chiếc váy này mang lại cảm giác dễ chịu và thoải mái suốt cả ngày dài.\n\nThiết kế hoa văn độc đáo: Họa tiết hoa văn trên nền đen tạo nên vẻ đẹp sang trọng và cuốn hút, giúp bạn nổi bật trong mọi hoàn cảnh.\n\nPhom dáng vừa vặn: Thiết kế ôm nhẹ nhàng giúp tôn lên đường cong của bạn mà vẫn giữ được sự thoải mái và tự tin khi mặc.\n\nMàu đen sang trọng: Màu đen dễ dàng kết hợp với nhiều loại áo và phụ kiện khác nhau, từ áo sơ mi công sở đến áo thun năng động.\n\nPhù hợp nhiều dịp: Chiếc váy này lý tưởng cho các buổi làm việc, tiệc tùng, hoặc thậm chí là những buổi dạo phố. Bạn có thể dễ dàng biến tấu phong cách từ thanh lịch đến trẻ trung.\n\nDễ bảo quản: Chất liệu bền bỉ và dễ giặt giũ, giúp giữ cho chiếc váy luôn như mới sau nhiều lần sử dụng.\n\nGiá bán:"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

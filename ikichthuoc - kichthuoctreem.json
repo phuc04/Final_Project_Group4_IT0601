@@ -1,0 +1,64 @@
+{
+  "id": "ac36d9af-1c8c-4675-bba7-3bf05b099044",
+  "parentId": "7e7668d0-fa94-4bf4-b1ba-141f8ebea3dc",
+  "rootParentId": "7e7668d0-fa94-4bf4-b1ba-141f8ebea3dc",
+  "name": "ikichthuoc - kichthuoctreem",
+  "auto": true,
+  "contexts": [
+    "ikichthuoc-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ikichthuoc.ikichthuoc-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b6e98644-cf60-4498-9bda-78fc2cd497d7",
+          "name": "ekichcodotreem",
+          "required": false,
+          "dataType": "@ekichcodotreem",
+          "value": "$ekichcodotreem",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "width": "20px",
+                  "rawUrl": "https://gitikids.vn/wp-content/uploads/2022/01/bang-size-quan-ao-tre-em-theo-can-nang-giti.webp",
+                  "type": "image",
+                  "height": "15px",
+                  "accessibilityText": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

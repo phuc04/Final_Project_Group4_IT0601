@@ -1,0 +1,74 @@
+{
+  "id": "20b84ac4-2365-4c6f-9a7a-e0bceb68684e",
+  "parentId": "7ac7a6c5-bc33-4306-a364-75617e18565c",
+  "rootParentId": "7dd3bc4c-92e4-440b-a2b5-8c1380651249",
+  "name": "idocongnghe - dienthoai - samsung - samsunggalaxyzfold6",
+  "auto": true,
+  "contexts": [
+    "idocongnghe-dienthoai-samsung-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "idocongnghe.idocongnghe-custom.idocongnghe-dienthoai-custom.idocongnghe-dienthoai-samsung-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "053b989e-02f6-43d3-9809-031b434060fd",
+          "name": "esamsunggalaxyzfold6",
+          "required": false,
+          "dataType": "@esamsunggalaxyzfold6",
+          "value": "$esamsunggalaxyzfold6",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "accessibilityText": "image",
+                  "height": "15px",
+                  "rawUrl": "https://www.backmarket.co.uk/cdn-cgi/image/format%3Dauto%2Cquality%3D75%2Cwidth%3D640/https://d2e6ccujb3mkqf.cloudfront.net/a06cb3ee-9282-4664-ac00-c2a43a84de65-1_1202b2d8-63ed-457e-9bff-4abe3d190676.jpg",
+                  "width": "20px",
+                  "type": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thiết Kế:\nKiểu dáng:\nGập ngang, cho phép chuyển đổi giữa chế độ điện thoại và máy tính bảng một cách linh hoạt.\nHệ thống bản lề Flex Hinge thế hệ mới, mỏng hơn và bền hơn, hỗ trợ gập/mở ở nhiều góc độ.\n\nChất liệu:\nKhung nhôm Armor Aluminum cao cấp.\nMặt lưng kính Gorilla Glass Victus 3, chống va đập và trầy xước hiệu quả.\n\nMàn Hình:\nMàn hình chính:\nKích thước: 7.6 inch Dynamic AMOLED 2X.\nĐộ phân giải: QXGA+ (2176 x 1812 pixel).\nTần số quét: 120Hz thích ứng, cho trải nghiệm hình ảnh mượt mà.\nĐộ sáng: Tối đa 2.800 nits, hiển thị rõ ràng ngay cả dưới ánh sáng mạnh.\nMàn hình ngoài:\nKích thước: 6.2 inch HD+ Dynamic AMOLED 2X.\nĐộ phân giải: 2316 x 904 pixel.\nHỗ trợ tần số quét 120Hz và các tác vụ nhanh mà không cần mở máy.\n\nHiệu Năng:\nChip xử lý: Qualcomm Snapdragon 8 Gen 3, mang lại hiệu suất vượt trội và tiết kiệm năng lượng.\nRAM: 12GB hoặc 16GB LPDDR5X.\nBộ nhớ trong: Lựa chọn từ 256GB, 512GB đến 1TB UFS 4.0.\nHệ điều hành: One UI 6.1 trên nền Android 14, tối ưu hóa trải nghiệm trên màn hình gập.\nCamera:\nCamera sau:\nCamera chính: 50MP với cảm biến lớn, hỗ trợ chụp ảnh chi tiết và sắc nét.\nCamera telephoto: Zoom quang học 3x, zoom kỹ thuật số lên đến 30x.\nCamera góc siêu rộng: 12MP với trường nhìn 123 độ.\nCamera trước:\nCamera ngoài: 10MP, hỗ trợ chụp selfie nhanh.\nCamera dưới màn hình (UDC): 4MP, ẩn dưới màn hình chính, cho trải nghiệm liền mạch.\n\nTính năng đặc biệt:\nNightography cải tiến, chụp ảnh đẹp trong điều kiện thiếu sáng.\nQuay video 8K ở 30fps, hỗ trợ Super Steady và HDR10+.\nFlex Mode: Dễ dàng chụp ảnh hoặc quay video mà không cần giá đỡ.\n\nPin và Sạc:\nDung lượng pin: 4.800mAh, hỗ trợ sử dụng cả ngày với nhiều tác vụ nặng.\nSạc nhanh: 45W (có dây), sạc không dây 15W, chia sẻ pin không dây 4.5W (Wireless PowerShare).\n\nKết Nối:\n5G: Tương thích tất cả các băng tần.\nWi-Fi: Wi-Fi 7 với tốc độ cao và độ trễ thấp.\nBluetooth: Bluetooth 5.3.\nCổng kết nối: USB-C 3.2, hỗ trợ truyền dữ liệu nhanh và kết nối màn hình ngoài.\n\nTính Năng Nổi Bật:\nĐa nhiệm linh hoạt:\nHỗ trợ Multi-Window cho phép mở 3 ứng dụng cùng lúc.\nChế độ Taskbar như PC, giúp chuyển đổi ứng dụng nhanh chóng.\nS Pen Fold Edition: Tương thích với màn hình chính, hỗ trợ ghi chú và phác thảo dễ dàng.\nKhả năng chống chịu: Chống nước đạt tiêu chuẩn IPX8.\nÂm thanh: Loa stereo với Dolby Atmos, mang lại trải nghiệm âm thanh sống động.\nBảo mật: Cảm biến vân tay tích hợp bên cạnh và nhận diện khuôn mặt.\n\nSamsung Galaxy Z Fold6 5G là sự kết hợp hoàn hảo giữa công nghệ tiên tiến, thiết kế độc đáo và khả năng sử dụng linh hoạt. Đây là thiết bị lý tưởng cho người dùng yêu cầu hiệu năng cao và trải nghiệm đột phá.\n\nGiá bán: 41,990,000 vnđ"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

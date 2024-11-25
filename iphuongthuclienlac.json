@@ -1,0 +1,62 @@
+{
+  "id": "3bf69bb5-c786-4eb8-832b-ab90f78040bb",
+  "name": "iphuongthuclienlac",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aa8198cf-febe-4377-915f-53705499751d",
+          "name": "ephuongthuclienlac",
+          "required": false,
+          "dataType": "@ephuongthuclienlac",
+          "value": "$ephuongthuclienlac",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Thông tin liên hệ",
+                  "type": "description",
+                  "text": [
+                    "Quý khách có thể liên hệ với Line Shop qua các phương thức sau:",
+                    "Số điện thoại: 0123456789",
+                    "Email: lineshop@gmail.com"
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

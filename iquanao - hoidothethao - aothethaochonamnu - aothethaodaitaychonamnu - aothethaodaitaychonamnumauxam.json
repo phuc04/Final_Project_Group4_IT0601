@@ -1,0 +1,74 @@
+{
+  "id": "a1658cb1-56e2-4966-801f-47906f30ada0",
+  "parentId": "8f53aa8f-9c01-4eae-9981-9c361c9fe17a",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidothethao - aothethaochonamnu - aothethaodaitaychonamnu - aothethaodaitaychonamnumauxam",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidothethao-aothethaochonamvanu-aothethaodaitaychonamvanu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidothethao-custom-2.iquanao-hoidothethao-aothethaochonamvanu-custom.iquanao-hoidothethao-aothethaochonamvanu-aothethaodaitaychonamvanu-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d78cb061-9b09-4471-b64a-cd976ed2fd3e",
+          "name": "aothethaodaitaychonamnumauxam",
+          "required": false,
+          "dataType": "@aothethaodaitaychonamnumauxam",
+          "value": "$aothethaodaitaychonamnumauxam",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "height": "15px",
+                  "width": "20px",
+                  "type": "image",
+                  "rawUrl": "https://img.alicdn.com/imgextra/i3/2861357024/TB29yWXguKAUKJjSZFzXXXdQFXa_!!2861357024.jpg_400x400.jpg_.webp",
+                  "accessibilityText": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Áo Thể Thao Dài Tay Màu Xám Cho Nam \u0026 Nữ\nChất Liệu:\n\nPolyester Cao Cấp: Áo được làm từ chất liệu polyester cao cấp, mang lại sự thoải mái và độ bền cao. Chất liệu này giúp áo thấm hút mồ hôi tốt, giữ cho cơ thể luôn khô ráo và thoáng mát trong suốt quá trình tập luyện.\n\nThiết Kế:\n\nMàu Xám Thanh Lịch: Màu xám tinh tế và hiện đại, dễ dàng phối hợp với nhiều loại trang phục khác nhau.\n\nKiểu Dáng Slim Fit: Thiết kế ôm vừa vặn, tôn lên dáng người nhưng vẫn đảm bảo sự thoải mái khi vận động.\n\nDây Rút Điều Chỉnh: Lưng áo có dây rút co giãn, giúp dễ dàng điều chỉnh kích cỡ, mang lại sự tiện lợi và phù hợp cho nhiều dáng người.\n\nLogo Thương Hiệu: Logo của thương hiệu được in nổi bật trên áo, tạo điểm nhấn và phong cách đặc trưng.\n\nGiá bán: 400k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

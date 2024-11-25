@@ -1,0 +1,59 @@
+{
+  "id": "472cbad9-819f-4359-8ae6-d99f9945d4c1",
+  "parentId": "5bc0d923-31d9-417d-bb82-0698d8cb46c2",
+  "rootParentId": "5bc0d923-31d9-417d-bb82-0698d8cb46c2",
+  "name": "iphukien - mu",
+  "auto": true,
+  "contexts": [
+    "iphukien-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iphukien.iphukien-custom",
+      "affectedContexts": [
+        {
+          "name": "iphukien-mu-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "eb6b4155-0060-4b0d-881f-478cf42c0223",
+          "name": "emu",
+          "required": false,
+          "dataType": "@emu",
+          "value": "$emu",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop hiện có sẵn mũ Li-Ning với hai màu đen và trắng. Bạn thích mẫu nào hơn ạ? 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

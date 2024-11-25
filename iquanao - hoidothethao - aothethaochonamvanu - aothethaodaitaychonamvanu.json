@@ -1,0 +1,59 @@
+{
+  "id": "8f53aa8f-9c01-4eae-9981-9c361c9fe17a",
+  "parentId": "b8f21593-b090-4a24-bb29-45aa52e66249",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidothethao - aothethaochonamvanu - aothethaodaitaychonamvanu",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidothethao-aothethaochonamvanu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidothethao-custom-2.iquanao-hoidothethao-aothethaochonamvanu-custom",
+      "affectedContexts": [
+        {
+          "name": "iquanao-hoidothethao-aothethaochonamvanu-aothethaodaitaychonamvanu-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "750d8bde-0536-4c23-bb2f-fdd734811801",
+          "name": "eaothethaodaitaychoamvanu",
+          "required": false,
+          "dataType": "@eaothethaodaitaychoamvanu",
+          "value": "$eaothethaodaitaychoamvanu",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop có sẵn mẫu áo thể thao dài tay dành cho cả nam và nữ với 2 loại màu là màu cam với màu xám. Bạn muốn mình tư vấn mẫu nào ạ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

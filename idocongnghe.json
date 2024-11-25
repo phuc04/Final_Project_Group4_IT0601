@@ -1,0 +1,55 @@
+{
+  "id": "7dd3bc4c-92e4-440b-a2b5-8c1380651249",
+  "name": "idocongnghe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "idocongnghe-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f756f3d9-a198-47a3-bb3c-4aedf1c08ad1",
+          "name": "edocongnghe",
+          "required": false,
+          "dataType": "@edocongnghe",
+          "value": "$edocongnghe",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop tự hào cung cấp đa dạng các sản phẩm công nghệ và điện tử hiện đại, bao gồm: điện thoại, máy tính và TV. Quý khách cần tư vấn về sản phẩm nào xin vui lòng cho chúng tôi biết. 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

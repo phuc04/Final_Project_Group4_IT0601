@@ -1,0 +1,74 @@
+{
+  "id": "80713402-a279-4904-9ff5-f03c55f0e5e6",
+  "parentId": "f79a0b8c-46ee-4db2-9fc3-49bbc3680efc",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonam - hoiaonam - aophong - phongden",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonam-hoiaonam-aophong-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonam-custom.iquanao-hoidonam-hoiaonam-custom.iquanao-hoidonam-hoiaonam-aophong-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "61804586-830a-4f1c-9663-5c21e21020e4",
+          "name": "eaophongden",
+          "required": false,
+          "dataType": "@eaophongden",
+          "value": "$eaophongden",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "accessibilityText": "image",
+                  "width": "20px",
+                  "type": "image",
+                  "height": "15px",
+                  "rawUrl": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lvk5opxdmnfgfd.webp"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Áo Phông Nam Màu Đen\n\nMô tả Sản phẩm:\n\nChiếc áo phông nam màu đen này là một lựa chọn lý tưởng cho phong cách thời trang hàng ngày. Với thiết kế tối giản và chất liệu cao cấp, chiếc áo này mang lại vẻ ngoài mạnh mẽ và tinh tế cho người mặc.\n\nChất liệu cao cấp: Được làm từ 100% cotton, chiếc áo này mang lại cảm giác mềm mại và thoáng mát, giúp bạn thoải mái suốt cả ngày.\n\nThiết kế đơn giản: Kiểu dáng cổ điển với form áo vừa vặn, không quá ôm cũng không quá rộng, phù hợp với nhiều dáng người.\n\nMàu đen nam tính: Màu đen dễ dàng kết hợp với nhiều loại quần và phụ kiện khác nhau, từ quần jeans năng động đến quần âu lịch sự.\n\nPhù hợp nhiều dịp: Chiếc áo này lý tưởng cho các hoạt động hàng ngày như đi làm, đi học, dạo phố, hay thậm chí là các buổi gặp gỡ bạn bè không chính thức.\n\nDễ bảo quản: Chất liệu bền bỉ và dễ giặt giũ, giúp giữ cho chiếc áo luôn như mới dù đã qua nhiều lần sử dụng.\n\nGiá bán: 300k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

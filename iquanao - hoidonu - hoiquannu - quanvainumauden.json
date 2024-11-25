@@ -1,0 +1,74 @@
+{
+  "id": "18487f6a-465b-442c-8da9-1233b0bc94a2",
+  "parentId": "6d00cb11-7a98-47ab-bb8c-12bf0d04fcda",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonu - hoiquannu - quanvainumauden",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonu-hoiquannu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonu-custom.iquanao-hoidonu-hoiquannu-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "92963dc6-94db-4713-becb-6af9dc9e510b",
+          "name": "equanvainumauden",
+          "required": false,
+          "dataType": "@equanvainumauden",
+          "value": "$equanvainumauden",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "height": "15px",
+                  "width": "20px",
+                  "rawUrl": "https://www.yoox.com/images/items/13/13689525FD_14_f.jpg?impolicy\u003dcrop\u0026width\u003d387\u0026height\u003d490",
+                  "type": "image",
+                  "accessibilityText": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Quần Vải Nữ Màu Đen\n\nMô tả Sản phẩm:\n\nChiếc quần vải nữ màu đen này là một món đồ thời trang không thể thiếu trong tủ đồ của bạn. Với thiết kế sang trọng và chất liệu thoải mái, chiếc quần này dễ dàng kết hợp với nhiều phong cách và dịp khác nhau.\n\nChất liệu cao cấp: Được làm từ vải cotton pha lụa mềm mại và thoáng mát, chiếc quần này mang lại cảm giác dễ chịu cho người mặc suốt cả ngày dài.\n\nThiết kế hiện đại: Phom dáng ôm vừa vặn, không quá chật cũng không quá rộng, giúp tôn lên vóc dáng của bạn một cách tinh tế.\n\nMàu đen cổ điển: Màu đen trung tính dễ dàng phối hợp với nhiều loại áo và phụ kiện khác nhau, từ áo sơ mi công sở đến áo thun năng động.\n\nPhù hợp nhiều dịp: Chiếc quần này lý tưởng cho các buổi làm việc, họp hành, gặp gỡ bạn bè, hoặc thậm chí là các sự kiện trang trọng. Bạn có thể dễ dàng biến tấu phong cách từ thanh lịch đến thoải mái chỉ với một vài thay đổi nhỏ.\n\nDễ bảo quản: Chất liệu bền bỉ và dễ giặt giũ, giúp giữ cho chiếc quần luôn như mới dù đã qua nhiều lần sử dụng.\n\nGiá bán: 250k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

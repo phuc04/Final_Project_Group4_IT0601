@@ -1,0 +1,44 @@
+{
+  "id": "8fdea29e-9eda-4594-aa2c-18202a360342",
+  "parentId": "7dd3bc4c-92e4-440b-a2b5-8c1380651249",
+  "rootParentId": "7dd3bc4c-92e4-440b-a2b5-8c1380651249",
+  "name": "idocongnghe - tivi",
+  "auto": true,
+  "contexts": [
+    "idocongnghe-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "idocongnghe.idocongnghe-custom",
+      "affectedContexts": [
+        {
+          "name": "idocongnghe-tivi-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop hiện có 2 mẫu sản phẩm là: TV Samsung Neo QLED 8K và Smart Tivi OLED LG 4K 83 inch 83C4PSA. Bạn muốn mình tư vấn mẫu nào ạ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

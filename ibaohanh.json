@@ -1,0 +1,50 @@
+{
+  "id": "1aca0789-163b-44ef-81cf-3863815d4fdf",
+  "name": "ibaohanh",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7b02c859-1147-49d3-b2ed-e13253d9fb3a",
+          "name": "ebaohanh",
+          "required": false,
+          "dataType": "@ebaohanh",
+          "value": "$ebaohanh",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Để biết thêm chi tiết về chính sách bảo hành và thu hồi, Linea Shop sẵn lòng cung cấp thông tin đầy đủ cho quý khách.\n\nChính Sách Bảo Hành:\nThời gian bảo hành: 12 tháng kể từ ngày mua hàng.\n\nĐiều kiện bảo hành: Áp dụng cho lỗi kỹ thuật do nhà sản xuất.\n\nQuy trình bảo hành: Giữ lại hóa đơn và phiếu bảo hành, liên hệ bộ phận chăm sóc khách hàng để được hướng dẫn chi tiết.\n\nChính Sách Thu Hồi:\nĐiều kiện thu hồi: Sản phẩm có lỗi sản xuất hoặc không đúng mô tả ban đầu.\n\nThời gian thu hồi: Trong vòng 30 ngày kể từ ngày nhận hàng.\n\nQuy trình thu hồi: Liên hệ bộ phận chăm sóc khách hàng, sản phẩm phải còn nguyên vẹn.\n\nChúng tôi cam kết mang đến sự hài lòng tối đa cho quý khách thông qua các dịch vụ hậu mãi tận tình và quy trình thu hồi sản phẩm nhanh chóng, hiệu quả."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

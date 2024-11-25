@@ -1,0 +1,59 @@
+{
+  "id": "30d04d1f-01ea-4877-9273-1b41e2b37012",
+  "parentId": "b8f21593-b090-4a24-bb29-45aa52e66249",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidothethao - aothethaochonamvanu - aothethaococtaypuma",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidothethao-aothethaochonamvanu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidothethao-custom-2.iquanao-hoidothethao-aothethaochonamvanu-custom",
+      "affectedContexts": [
+        {
+          "name": "iquanao-hoidothethao-aothethaochonamvanu-aothethaococtaypuma-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "747dedda-7dec-4b4b-8db7-6df33fe3768e",
+          "name": "eaothethaococtaypuma",
+          "required": false,
+          "dataType": "@eaothethaococtaypuma",
+          "value": "$eaothethaococtaypuma",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop có sẵn áo thể thao cộc tay puma với 2 màu trắng và đen. Bạn muốn mình tư vấn mẫu nào ạ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

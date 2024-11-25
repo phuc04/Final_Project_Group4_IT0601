@@ -1,0 +1,74 @@
+{
+  "id": "66c66944-3322-4fd3-b752-01eabe1e62b3",
+  "parentId": "09bdccf1-645a-483e-97a9-dc312faef66d",
+  "rootParentId": "5bc0d923-31d9-417d-bb82-0698d8cb46c2",
+  "name": "iphukien - tuixach - tuiden",
+  "auto": true,
+  "contexts": [
+    "iphukien-tuixach-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iphukien.iphukien-custom.iphukien-tuixach-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "353c607b-a5a3-46ec-ba15-ea304cb79de7",
+          "name": "etuiden",
+          "required": false,
+          "dataType": "@etuiden",
+          "value": "$etuiden",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "height": "15px",
+                  "rawUrl": "https://www.vascara.com/uploads/cms_productmedia/2023/December/31/tui-deo-vai-nap-gap-nhan-son-vien---tot-0155---mau-den__73592__1704035401-medium.jpeg",
+                  "type": "image",
+                  "accessibilityText": "image",
+                  "width": "20px"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Túi Xách Màu Đen\n\nChất Liệu:\n\nDa Cao Cấp: Chất liệu da mềm mại, bền bỉ và chống trầy xước, giúp túi luôn giữ được vẻ ngoài sang trọng qua thời gian.\n\nVải Lót Bên Trong: Sử dụng vải lót chất lượng cao, bảo vệ các vật dụng bên trong khỏi trầy xước và hư hại.\n\nThiết Kế:\n\nKiểu Dáng Hiện Đại: Thiết kế tinh tế và hiện đại, dễ dàng kết hợp với nhiều phong cách thời trang.\n\nKích Thước Hợp Lý: Kích thước túi vừa phải, phù hợp để chứa điện thoại, ví, chìa khóa và các vật dụng cá nhân khác.\n\nChi Tiết Tinh Tế: Đường chỉ may chắc chắn, khóa kéo và móc chất lượng cao, tăng thêm độ bền và sự sang trọng. \n\nGiá bán: 750k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

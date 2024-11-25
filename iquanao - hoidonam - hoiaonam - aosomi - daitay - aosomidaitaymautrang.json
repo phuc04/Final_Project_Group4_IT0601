@@ -1,0 +1,74 @@
+{
+  "id": "7a03c749-4b25-42aa-bcbf-d85e3bdee59a",
+  "parentId": "de8f2b4b-a514-4590-936e-74f2f9df0b5d",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonam - hoiaonam - aosomi - daitay - aosomidaitaymautrang",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonam-hoiaonam-aosomi-daitay-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonam-custom.iquanao-hoidonam-hoiaonam-custom-3.iquanao-hoidonam-hoiaonam-aosomi-custom.iquanao-hoidonam-hoiaonam-aosomi-daitay-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0a94adda-52c8-43d5-ae26-e66e38786a16",
+          "name": "eaosomidaitaymautrang",
+          "required": false,
+          "dataType": "@eaosomidaitaymautrang",
+          "value": "$eaosomidaitaymautrang",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "accessibilityText": "image",
+                  "width": "20px",
+                  "rawUrl": "https://product.hstatic.net/200000574651/product/gls0345-1-wh50_3678a6df249545d899ebfe241c5013b7_master.jpg",
+                  "type": "image",
+                  "height": "15px"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Áo Sơ Mi Nam Dài Tay Màu Trắng\nChất Liệu:\n\nCotton Cao Cấp: Được làm từ chất liệu cotton mềm mại và thoáng mát, áo sơ mi này mang lại cảm giác dễ chịu và thoải mái suốt cả ngày.\n\nPolyester: Có thêm thành phần polyester giúp tăng độ bền và chống nhăn cho áo.\n\nThiết Kế:\n\nMàu Trắng Tinh Khôi: Màu trắng cổ điển và thanh lịch, dễ dàng phối hợp với nhiều loại trang phục khác nhau.\n\nKiểu Dáng Regular Fit: Thiết kế vừa vặn, phù hợp với nhiều dáng người, mang lại vẻ ngoài lịch lãm và nam tính.\n\nCổ Bẻ Cổ Điển: Thiết kế cổ bẻ truyền thống, dễ dàng kết hợp với cà vạt cho những dịp trang trọng hoặc mặc không để tạo phong cách thoải mái.\n\nTay Dài: Thiết kế tay dài phù hợp với nhiều hoàn cảnh, từ công sở đến dạo phố hoặc các sự kiện trang trọng.\n\nTính Năng Nổi Bật:\n\nThoáng Khí: Chất liệu giúp áo luôn thoáng mát, không gây hầm bí khi mặc suốt ngày dài.\n\nChống Nhăn: Áo có khả năng chống nhăn tốt, giúp bạn luôn tự tin với vẻ ngoài gọn gàng và lịch sự.\n\nDễ Dàng Làm Sạch: Áo có thể giặt máy hoặc giặt tay mà không lo phai màu, giúp tiết kiệm thời gian và công sức.\n\nPhong Cách:\n\nThanh Lịch và Nam Tính: Mẫu áo này mang lại vẻ ngoài thanh lịch và nam tính, phù hợp với nhiều hoàn cảnh khác nhau.\n\nĐa Dụng: Dễ dàng phối hợp với quần âu, quần jeans hoặc quần kaki, mang lại nhiều phong cách từ năng động đến lịch sự.\n\nGiá bán: 400k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

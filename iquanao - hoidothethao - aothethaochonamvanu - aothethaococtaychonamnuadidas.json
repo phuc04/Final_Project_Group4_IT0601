@@ -1,0 +1,59 @@
+{
+  "id": "5a28de21-fb51-4358-ab08-d5933bac1401",
+  "parentId": "b8f21593-b090-4a24-bb29-45aa52e66249",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidothethao - aothethaochonamvanu - aothethaococtaychonamnuadidas",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidothethao-aothethaochonamvanu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidothethao-custom-2.iquanao-hoidothethao-aothethaochonamvanu-custom",
+      "affectedContexts": [
+        {
+          "name": "iquanao-hoidothethao-aothethaochonamvanu-aothethaococtaychonamnuadidas-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2f8f4a6e-65a2-4519-bcee-5dad17493bbe",
+          "name": "eaothethaococtaychonamnuadidas",
+          "required": false,
+          "dataType": "@eaothethaococtaychonamnuadidas",
+          "value": "$eaothethaococtaychonamnuadidas",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop có sẵn áo cộc tay thể thao cho nam và nữ adidas với 2 màu: trắng và đỏ. Bạn muốn mình tư vấn mẫu nào ạ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

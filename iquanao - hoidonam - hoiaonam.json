@@ -1,0 +1,59 @@
+{
+  "id": "0cbffbf1-3ed0-4077-a0ab-7ed59ff97d14",
+  "parentId": "12e36d16-bf65-4d93-9d6d-6ea41186891a",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonam - hoiaonam",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonam-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonam-custom",
+      "affectedContexts": [
+        {
+          "name": "iquanao-hoidonam-hoiaonam-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "689a8b86-503b-42bf-a8e5-7ef1a411e848",
+          "name": "ehoiaonam",
+          "required": false,
+          "dataType": "@ehoiaonam",
+          "value": "$ehoiaonam",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop hiện có sẵn các mẫu áo sơ mi tay ngắn, sơ mi dài tay và áo phông. Bạn cần tư vấn về mẫu nào ạ? 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

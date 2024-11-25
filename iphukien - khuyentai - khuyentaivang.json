@@ -1,0 +1,74 @@
+{
+  "id": "384a583d-b1c3-44ce-8e4b-f3e5d44f2cdb",
+  "parentId": "89bb363b-31de-4488-b9d8-97d1047c05a6",
+  "rootParentId": "5bc0d923-31d9-417d-bb82-0698d8cb46c2",
+  "name": "iphukien - khuyentai - khuyentaivang",
+  "auto": true,
+  "contexts": [
+    "iphukien-khuyentai-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iphukien.iphukien-custom.iphukien-khuyentai-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fd0f2356-192c-409d-b14e-8782871cc25b",
+          "name": "ekhuyentaivang",
+          "required": false,
+          "dataType": "@ekhuyentaivang",
+          "value": "$ekhuyentaivang",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "rawUrl": "https://lili.vn/wp-content/uploads/2022/05/Bong-tai-bac-nu-tron-ma-vang-dinh-da-CZ-hinh-chiec-la-LILI_945749_6.jpg",
+                  "height": "15px",
+                  "width": "20px",
+                  "type": "image",
+                  "accessibilityText": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Khuyên Tai Vàng\n\nChất Liệu:\n\nVàng Nguyên Chất: Khuyên tai được làm từ vàng nguyên chất, mang lại vẻ ngoài lấp lánh và sang trọng, đồng thời đảm bảo không gây kích ứng da.\n\nBề Mặt Sáng Bóng: Với bề mặt sáng bóng và mài nhẵn, khuyên tai vàng luôn giữ được độ sáng và vẻ đẹp qua thời gian.\n\nThiết Kế:\n\nĐơn Giản và Thanh Lịch: Thiết kế đơn giản nhưng tinh tế, dễ dàng kết hợp với nhiều phong cách thời trang khác nhau, từ trang phục công sở đến trang phục dạo phố.\n\nChi Tiết Tinh Tế: Các chi tiết nhỏ trên khuyên tai được chế tác tỉ mỉ, tạo nên điểm nhấn nhẹ nhàng và thanh lịch.\n\nGiá bán: 1,200,000 vnđ"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

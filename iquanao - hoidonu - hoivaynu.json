@@ -1,0 +1,59 @@
+{
+  "id": "b47b4be0-4f49-4ea3-8103-ca59633ff0ba",
+  "parentId": "f6e0c660-2fcd-48db-bf76-cb41d8e9c893",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonu - hoivaynu",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonu-custom",
+      "affectedContexts": [
+        {
+          "name": "iquanao-hoidonu-hoivaynu-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0c7f4350-add3-401a-8731-63e6a04097bc",
+          "name": "ehoivaynu",
+          "required": false,
+          "dataType": "@ehoivaynu",
+          "value": "$ehoivaynu",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop hiện có sẵn chân váy hoa văn dài và chân váy trơn ngắn . Bạn muốn mình tư vấn mẫu nào ạ? 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

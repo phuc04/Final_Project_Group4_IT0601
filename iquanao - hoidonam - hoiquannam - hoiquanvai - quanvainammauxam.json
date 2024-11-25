@@ -1,0 +1,74 @@
+{
+  "id": "57a0a75c-de6b-4417-af18-14ab09f0b968",
+  "parentId": "49ba7257-e93e-4c7a-8ea5-c795bfcace68",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonam - hoiquannam - hoiquanvai - quanvainammauxam",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonam-hoiquannam-hoiquandai-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonam-custom.iquanao-hoidonam-hoiquannam-custom.iquanao-hoidonam-hoiquannam-hoiquandai-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9e53055e-3fd7-4dab-a8f8-5fdc3c890367",
+          "name": "equanvainammauxam",
+          "required": false,
+          "dataType": "@equanvainammauxam",
+          "value": "$equanvainammauxam",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "width": "20px",
+                  "rawUrl": "https://polomanor.vn/cdn/shop/files/Polomanor_KakiSD_xamdam_25012024_1.jpg?v\u003d1714725354\u0026width\u003d1508",
+                  "type": "image",
+                  "accessibilityText": "image",
+                  "height": "15px"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Quần Dài Nam Màu Xám\n\nMô tả Sản phẩm:\n\nChiếc quần dài nam màu xám này là sự lựa chọn hoàn hảo cho phong cách thời trang nam giới, kết hợp giữa sự thoải mái và lịch sự. Với chất liệu cao cấp và thiết kế tinh tế, chiếc quần này dễ dàng phù hợp với nhiều dịp khác nhau, từ công sở đến các buổi dạo phố.\n\nChất liệu cao cấp: Được làm từ vải cotton pha polyester, chiếc quần này không chỉ mềm mại và thoáng mát mà còn bền bỉ, giúp bạn cảm thấy thoải mái suốt cả ngày.\n\nThiết kế hiện đại: Phom dáng ôm vừa vặn, giúp tôn lên vóc dáng của bạn mà không gây cảm giác chật chội.\n\nMàu xám thanh lịch: Màu xám trung tính dễ dàng phối hợp với nhiều loại áo và phụ kiện khác nhau, từ áo sơ mi công sở đến áo thun năng động.\n\nPhù hợp nhiều dịp: Chiếc quần này lý tưởng cho các buổi làm việc, gặp gỡ bạn bè, hoặc thậm chí là các sự kiện trang trọng. Bạn có thể dễ dàng biến tấu phong cách từ lịch lãm đến thoải mái với một vài thay đổi nhỏ.\n\nDễ bảo quản: Chất liệu bền bỉ và dễ giặt giũ, giữ cho chiếc quần luôn như mới sau nhiều lần sử dụng.\n\nGiá bán: 500k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

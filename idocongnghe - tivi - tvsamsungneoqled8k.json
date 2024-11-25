@@ -1,0 +1,74 @@
+{
+  "id": "848bfd52-4ac8-4e71-8440-833690bc8922",
+  "parentId": "8fdea29e-9eda-4594-aa2c-18202a360342",
+  "rootParentId": "7dd3bc4c-92e4-440b-a2b5-8c1380651249",
+  "name": "idocongnghe - tivi - tvsamsungneoqled8k",
+  "auto": true,
+  "contexts": [
+    "idocongnghe-tivi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "idocongnghe.idocongnghe-custom.idocongnghe-tivi-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "630f1448-d1a6-4d64-a16f-60e79b23a00a",
+          "name": "etvsamsungneoqled8k",
+          "required": false,
+          "dataType": "@etvsamsungneoqled8k",
+          "value": "$etvsamsungneoqled8k",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "width": "20px",
+                  "rawUrl": "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/1/9/photo-1704793497572-1704793498278743418155.jpg",
+                  "height": "15px",
+                  "type": "image",
+                  "accessibilityText": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Samsung Neo QLED 2024\nCông nghệ hiển thị: Neo QLED sử dụng công nghệ mini-LED và Quantum Matrix để cung cấp độ sáng và độ tương phản tuyệt vời. Đặc biệt, với bộ xử lý AI Neo Quantum Processor, TV có khả năng nâng cấp hình ảnh lên đến độ phân giải 8K, giúp tối ưu hóa từng chi tiết trong mọi cảnh quay.\n\nHiệu suất hình ảnh: Công nghệ Quantum HDR 64x mang lại màu sắc sống động và độ sáng cực kỳ mạnh mẽ. Các dòng Neo QLED 2024 có thể hiển thị hình ảnh ở độ sáng lên đến 2000 nits, giúp hình ảnh rõ ràng và sắc nét, ngay cả trong môi trường sáng.\n\nÂm thanh: TV sử dụng Dolby Atmos kết hợp với công nghệ âm thanh Object Tracking Sound Pro (OTS+), tạo ra âm thanh vòm sống động, đồng bộ với hình ảnh, mang đến trải nghiệm nghe nhìn tuyệt vời.\n\nĐặc biệt: Một trong những điểm nổi bật là khả năng hỗ trợ tần số quét 144Hz, lý tưởng cho game thủ với trải nghiệm mượt mà và sắc nét khi chơi game.\n\nGiá bán: 89,990,000 vnđ"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

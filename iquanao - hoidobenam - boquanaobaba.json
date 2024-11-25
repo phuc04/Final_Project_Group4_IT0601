@@ -1,0 +1,74 @@
+{
+  "id": "1dc90bc0-e6c3-45f9-be78-17b3cf5b5ef4",
+  "parentId": "9137e6f2-f310-4958-ae89-7c553c601803",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidobenam - boquanaobaba",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidobenam-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidobenam-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ec0eff34-ac30-432e-bcb5-a8a127584362",
+          "name": "eboquanaobaba",
+          "required": false,
+          "dataType": "@eboquanaobaba",
+          "value": "$eboquanaobaba",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "rawUrl": "https://laz-img-sg.alicdn.com/p/b8a9e83831b4e36dad08d385936a8e5f.jpg",
+                  "width": "20px",
+                  "accessibilityText": "image",
+                  "type": "image",
+                  "height": "15px"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Bộ Quần Áo Bà Ba Nông Dân Túi Caro Cho Bé Trai \u0026 Bé Gái\nChất Liệu:\n\nVải Cotton: Bộ quần áo được làm từ chất liệu cotton mềm mại, thoáng mát và an toàn cho làn da nhạy cảm của trẻ nhỏ. Chất liệu này cũng dễ thấm hút mồ hôi, giữ cho bé luôn thoải mái trong các hoạt động hàng ngày.\n\nThiết Kế:\n\nPhong Cách Bà Ba Nông Dân: Thiết kế dựa trên trang phục truyền thống của nông dân Việt Nam, mang đến vẻ ngoài mộc mạc và gần gũi nhưng vẫn rất đáng yêu.\n\nTúi Caro: Điểm nhấn là các túi caro xinh xắn ở mặt trước, tạo thêm phần sinh động và nổi bật cho trang phục.\n\nPhù Hợp Cho Cả Bé Trai và Bé Gái: Thiết kế unisex, phù hợp cho cả bé trai và bé gái, giúp các bé trông thật dễ thương và duyên dáng.\n\nTính Năng Nổi Bật:\n\nThoáng Mát và Dễ Chịu: Chất liệu cotton giúp bộ quần áo thoáng mát, không gây bí bách cho bé khi mặc suốt ngày dài.\n\nDễ Mặc và Tháo Ra: Thiết kế đơn giản với các cúc áo hoặc dây buộc giúp bé dễ dàng mặc vào và tháo ra, tiết kiệm thời gian cho phụ huynh.\n\nAn Toàn cho Da: Chất liệu an toàn, không gây kích ứng da, phù hợp cho bé nhỏ.\n\nPhong Cách:\n\nTruyền Thống và Duyên Dáng: Bộ quần áo mang phong cách truyền thống, giúp bé trông thật duyên dáng và đáng yêu.\n\nĐa Dụng: Phù hợp để bé mặc trong nhiều hoàn cảnh, từ đi học, đi chơi đến các dịp lễ hội truyền thống.\n\nGiá bán: 400k"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "09bdccf1-645a-483e-97a9-dc312faef66d",
+  "parentId": "5bc0d923-31d9-417d-bb82-0698d8cb46c2",
+  "rootParentId": "5bc0d923-31d9-417d-bb82-0698d8cb46c2",
+  "name": "iphukien - tuixach",
+  "auto": true,
+  "contexts": [
+    "iphukien-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iphukien.iphukien-custom",
+      "affectedContexts": [
+        {
+          "name": "iphukien-tuixach-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d448019e-00b1-49ae-9b64-2c517f554a74",
+          "name": "etuixach",
+          "required": false,
+          "dataType": "@etuixach",
+          "value": "$etuixach",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop hiện có 2 mẫu xách với mầu trắng và mầu đen. Bạn muốn mình tư vấn mẫu nào ạ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

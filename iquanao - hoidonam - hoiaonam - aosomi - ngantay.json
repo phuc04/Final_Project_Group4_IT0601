@@ -1,0 +1,59 @@
+{
+  "id": "6eaca9f1-f54c-4870-90ca-0b11ef385d3a",
+  "parentId": "c92f411e-224d-4987-a2bb-2a6e65ed6c5b",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonam - hoiaonam - aosomi - ngantay",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonam-hoiaonam-aosomi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonam-custom.iquanao-hoidonam-hoiaonam-custom-3.iquanao-hoidonam-hoiaonam-aosomi-custom-2",
+      "affectedContexts": [
+        {
+          "name": "iquanao-hoidonam-hoiaonam-aosomi-ngantay-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7658b738-5b91-4865-9ada-62eb32a81171",
+          "name": "eaosomingantay",
+          "required": false,
+          "dataType": "@eaosomingantay",
+          "value": "$eaosomingantay",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop có sẵn mẫu áo sơ mi ngắn tay với 2 màu xanh đen và tím đen. Bạn muốn mình tư vấn về mẫu nào ạ? 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

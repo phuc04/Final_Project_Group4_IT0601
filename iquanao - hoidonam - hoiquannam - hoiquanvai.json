@@ -1,0 +1,59 @@
+{
+  "id": "49ba7257-e93e-4c7a-8ea5-c795bfcace68",
+  "parentId": "43f30c24-5b9d-470e-a9f8-a0615b43b5ce",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidonam - hoiquannam - hoiquanvai",
+  "auto": true,
+  "contexts": [
+    "iquanao-hoidonam-hoiquannam-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom.iquanao-hoidonam-custom.iquanao-hoidonam-hoiquannam-custom",
+      "affectedContexts": [
+        {
+          "name": "iquanao-hoidonam-hoiquannam-hoiquandai-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9a8ecf07-aa09-46be-b8af-8b5710b741e2",
+          "name": "ehoiquanvai",
+          "required": false,
+          "dataType": "@ehoiquanvai",
+          "value": "$ehoiquanvai",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop hiện có sẵn quần vải nam với hai màu đen và xám. Bạn muốn mình tư vấn mẫu nào ạ? 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

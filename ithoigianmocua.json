@@ -1,0 +1,50 @@
+{
+  "id": "40989ddf-bc5d-4af0-b714-78ebeecec0e6",
+  "name": "ithoigianmocua",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d4bd58ff-0f46-4895-901d-083361175d45",
+          "name": "ethoigianmocua",
+          "required": false,
+          "dataType": "@ethoigianmocua",
+          "value": "$ethoigianmocua",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thời gian làm việc của Linea shop từ thứ hai đến chủ nhật ( bao gồm các ngày nghỉ lễ ) và hoạt động từ 8AM đến 22PM. Rất vui khi quý khách đã tới ghé thăm cửa hàng."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "9137e6f2-f310-4958-ae89-7c553c601803",
+  "parentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "rootParentId": "4a1398b9-dc39-483b-977b-6cc77436fdef",
+  "name": "iquanao - hoidobenam",
+  "auto": true,
+  "contexts": [
+    "iquanao-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iquanao.iquanao-custom",
+      "affectedContexts": [
+        {
+          "name": "iquanao-hoidobenam-followup",
+          "lifespan": 111
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0f540e1a-faf6-4599-ab73-3897a40d31d2",
+          "name": "ehoidobenam",
+          "required": false,
+          "dataType": "@ehoidobenam",
+          "value": "$ehoidobenam",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linea Shop có sẵn 2 bộ đồ màu xanh trắng màu đỏ và bộ quần áo bà ba, nông dân túi caro dành cho bé nam. Bạn muốn mình tư vấn mẫu sản phẩm nào nhỉ? 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
